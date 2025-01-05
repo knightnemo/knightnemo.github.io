@@ -42,3 +42,10 @@ My research goal is to develop **Fundamental models with an intrinsic understand
 
 ## Language
 - **TOEFL**: Total Score **117/120** (On First Trial).
+
+## Miscs
+- I love playing the piano and singing songs. I'm a member of [Tsinghua University Chorus](https://www.arts.tsinghua.edu.cn/info/1084/1493.htm). I can also play the chinese flute quite well.
+- I'm also really into sports, especially basketball and running. I'm a member of the IIIS basketball team and a huge fan of the [Golden State Warriors](https://www.nba.com/warriors/).
+- I love animals (especially dogs). My parents and I raised three lovely Poodles.
+- In high school, I was quite into Physics & Chemistry, and participated in [Olympiad in Physics](http://cpho.pku.edu.cn) and [Olympiad in Chemistry](https://www.chemsoc.org.cn).
+- I am also a tech blogger, my blog website will be coming soon.
