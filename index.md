@@ -4,8 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm currently a Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), persuing a Bachelor's degree in Computer Science.
 
+In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
+
+My research goal is to develop **Fundamental models with an intrinsic understanding of the world** and apply this to obtain **general decision intelligence**. Currently, my research interests include:
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
