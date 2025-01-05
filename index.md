@@ -9,10 +9,10 @@ I'm currently a Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](htt
 In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 My research goal is to develop **Fundamental models with an intrinsic understanding of the world** and apply this to obtain **general decision intelligence**. Currently, my research interests include:
-## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **World Models**: State-based World Models, Visual World Models, Grounding Foundation Models(e.g. Video Diffusion Models, LLMs) to World Models.
+
+- **Data-driven reinforcement learning & decision making**: Model-Based Reinforcement Learning, Offline Reinforcement Learning, Imitation Learning.
 
 ## News
 
