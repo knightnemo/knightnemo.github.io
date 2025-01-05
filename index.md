@@ -30,3 +30,13 @@ My research goal is to develop **Fundamental models with an intrinsic understand
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Honors & Awards 
+- **[2024]** Outstanding Sports Scholarship of Tsinghua University
+- **[2024]** Comprehensive Excellence Award of Tsinghua University
+
+## Professional Services
+
+
+## Language
+- **TOEFL**: Total Score **117/120** (On First Trial).
