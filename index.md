@@ -16,10 +16,8 @@ My research goal is to develop **Fundamental models with an intrinsic understand
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** Glad to receive Comprehensive Excellence Award of Tsinghua.
+- **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
 
 {% include_relative _includes/publications.md %}
 
