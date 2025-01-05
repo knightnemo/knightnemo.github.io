@@ -16,7 +16,7 @@ My research goal is to develop **Fundamental models with an intrinsic understand
 
 ## News
 
-- **[Nov. 2024]** Glad to receive Comprehensive Excellence Award of Tsinghua.
+- **[Nov. 2024]** Honored to receive Comprehensive Excellence Award of Tsinghua.
 - **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
 
 {% include_relative _includes/publications.md %}
