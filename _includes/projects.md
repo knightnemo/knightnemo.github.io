@@ -1,6 +1,6 @@
 <h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
 
-<div class="projects">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.projects.main %}
@@ -19,9 +19,18 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
+      {% if link.description %} 
+      <div class="description">
+      {{ link.description }}
+      </div>
+      {% endif %}
+      {% if link.language %} 
+      <div class="language">
+      <strong>Language: </strong>{{ link.language }}</div>
+      {% endif %}
       </div>
     <div class="links">
-      {% if link.pdf %} 
+    {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.code %} 
@@ -33,6 +42,7 @@
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
+      
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
