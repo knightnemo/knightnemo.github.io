@@ -21,8 +21,8 @@ twitter: https://x.com/KnightNemo_
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./html_source_file/assets/img/icon.png
-favicon_dark: ./html_source_file/assets/img/icon.png
+favicon: ./assets/img/icon.png
+favicon_dark: ./assets/img/icon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
