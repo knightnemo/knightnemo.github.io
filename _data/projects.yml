@@ -31,7 +31,7 @@ main:
     image: ./assets/img/cad_escape.jpg
     description: A 2D Stickman vs CAD-themed game, developed using Unity. In this game, players, taking form as stick figures, explore a world within a CAD software through movement, skills, and various interactions.
     language: C#, Unity
-    notes:  THU Software Design Contest 2rd Prize(2024)
+    notes:  THU Software Design Contest 2nd Prize(2024)
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
