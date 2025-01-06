@@ -17,7 +17,7 @@ main:
     code: https://github.com/knightnemo/WEB_PROJ
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/platform.png
-    video: ./assets/videos/platform.mp4
+    video: https://cloud.tsinghua.edu.cn/f/9c073df17a6744a0b266/
     description: 1. Designed and implemented a PostgreSQL-based course sharing platform using Scala for backend and React for frontend 2. Utilized Stable Diffusion 2 and Llama 2 API to enhance users experiences
     language: Scala, HTML, CSS, JavaScript
     
