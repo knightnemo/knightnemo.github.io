@@ -38,7 +38,7 @@ My research goal is to develop **Fundamental models with an intrinsic understand
 ## Professional Services
 ### Teaching Assistant
 
-- Introduction to Artificial Intelligence, Spring 2025. Instructor: Prof.[Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) (_expected_)
+- Introduction to Artificial Intelligence, Spring 2025. Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) (_expected_)
 
 ## Language
 - **TOEFL**: Total Score **117/120** (On First Trial).
