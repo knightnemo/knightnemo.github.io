@@ -1,4 +1,9 @@
 main:
+  - title: "A Survey on K-means Clustering Algorithms: Theoretical Analysis and Performance Comparison"
+    image: ./assets/img/kmeans.jpg
+    description: "Elucidated the computational complexity and convergence properties of K-means clustering algorithms and its variants."
+    pdf: ./assets/files/clustering.pdf
+    page: https://leo1oel.github.io/clustering/
   - title: "DreamFactory : Grounding Language Models to World Model"
     image: ./assets/img/dreamfactory.png
     description: "We investigate the feasibility of utilizing language models as text-based world models. Through empirical study, we find that the performance is greatly hindered by overlengthy CoTs, and we propose DreamFactory, a novel architecture to address this issue."
