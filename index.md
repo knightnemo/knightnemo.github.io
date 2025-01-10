@@ -16,7 +16,7 @@ My research goal is to develop **Fundamental models with an intrinsic understand
 - **Data-driven reinforcement learning & decision making**: Model-Based Reinforcement Learning, Offline Reinforcement Learning, Imitation Learning.
 
 ## News
-
+- **[Jan. 2025]** My [personal blog website](https://knightnemo.github.io/blog/) is officially online!
 - **[Nov. 2024]** Honored to receive Comprehensive Excellence Award of Tsinghua.
 - **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
 
