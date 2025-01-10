@@ -9,7 +9,7 @@ I'm currently an Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](ht
 In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 ## Research Interests
-My research goal is to develop **Fundamental models with an intrinsic understanding of the world** and apply this to obtain **general decision intelligence**. Currently, my research interests include:
+My research goal is to develop **Fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
 
 - **World Models**: State-based World Models, Visual World Models, Grounding Foundation Models(e.g. Video Diffusion Models, LLMs) to World Models.
 
