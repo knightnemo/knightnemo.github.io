@@ -6,7 +6,7 @@ main:
     page: https://leo1oel.github.io/clustering/
   - title: "DreamFactory : Grounding Language Models to World Models"
     image: ./assets/img/dreamfactory.png
-    description: "We investigate the feasibility of utilizing language models as text-based world models. Through empirical study, we find that the performance is greatly hindered by overlengthy CoTs, and we propose DreamFactory, a novel architecture to address this issue."
+    description: "We investigated the feasibility of utilizing language models as text-based world models. Through empirical study, we found that the performance is greatly hindered by overlengthy CoTs, and we proposed DreamFactory, a novel architecture to address this issue."
     pdf: ./assets/files/DreamFactory.pdf
     code: https://github.com/knightnemo/nlp-proj
   - title: "MANIGEN: generative simulation pipeline with maniskill2"
