@@ -13,6 +13,7 @@ main:
     image: ./assets/img/eai.png
     description: "We introduce ManiGen, a generative simulation pipeline using ManiSkill to automate task creation. It utilizes the power of LLMs to propose tasks, generate scenes, and produce task-specific code for rewards, parameters, and metrics."
     # pdf: ./assets/files/MANIGEN.pdf
+    page: https://sites.google.com/view/eai-manigen/
     code: https://github.com/Simpson561/EAI_proj
   - title: "Course Sharing Platform"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
