@@ -8,7 +8,7 @@ I'm currently an Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](ht
 
 In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
-I am actively seeking for research intern opportunities in 2025 Summer.
+**I am actively seeking research intern opportunities in Summer 2025.** I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!
 
 ## Research Interests
 My research goal is to develop **Fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
