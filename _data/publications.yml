@@ -1,7 +1,7 @@
 main:
   - title: Trajectory World Models for Heterogeneous Environments
     authors: Shaofeng Yin*, Jialong Wu*, <strong>Siqiao Huang</strong>, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#
-    # conference_short: ICML
+    conference_short: Under Review
     conference: Under Review, 2025
     pdf: https://arxiv.org/pdf/2502.01366
     bibtex: ./assets/bib/trajectory_world_models.txt
