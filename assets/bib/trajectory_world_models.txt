@@ -1,0 +1,9 @@
+@misc{yin2025trajectoryworldmodelsheterogeneous,
+      title={Trajectory World Models for Heterogeneous Environments}, 
+      author={Shaofeng Yin and Jialong Wu and Siqiao Huang and Xingjian Su and Xu He and Jianye Hao and Mingsheng Long},
+      year={2025},
+      eprint={2502.01366},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.01366}, 
+}

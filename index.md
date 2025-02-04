@@ -26,10 +26,13 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 
 - **B.S. in Computer Science**, Tsinghua University, 2023-2027 (_expected_)\\
     [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)\\
-    GPA: 3.917/4.00\\
+    GPA: 3.92/4.00, Rank: 13/93\\
     Selected Courses: _Natural Language Processing(A+), Algebra and Computation(A+), Fundamentals of Programming(A+), Basic Principles of Marxism(A+)_
+
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/projects.md %}
-<!-- {% include_relative _includes/publications.md %} -->
+
 
 <!-- {% include_relative _includes/services.md %} -->
 
