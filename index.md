@@ -45,8 +45,12 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 
 - Introduction to Artificial Intelligence, Spring 2025. Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) (_expected_)
 
+### Reviewer
+- [ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling](https://sites.google.com/view/worldmodel-iclr2025/)
+
 ## Language
-- **TOEFL**: Total Score **117/120** (On First Trial).
+- **TOEFL**: Total Score **117/120** (On First Trial, Speaking 30/30).
+- **CET-4**: 688/710, **CET-6**: 685/710.
 
 ## Miscs
 - I love playing the piano and singing songs. I'm a member of [Tsinghua University Chorus](https://www.arts.tsinghua.edu.cn/info/1084/1493.htm). I can also play the chinese flute quite well.
