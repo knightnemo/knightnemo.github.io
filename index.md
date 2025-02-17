@@ -43,7 +43,7 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 ## Professional Services
 ### Teaching Assistant
 
-- Introduction to Artificial Intelligence, Spring 2025. Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) (_expected_)
+- Introduction to Artificial Intelligence, Spring 2025. Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)
 
 ### Reviewer
 - [ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling](https://sites.google.com/view/worldmodel-iclr2025/)
