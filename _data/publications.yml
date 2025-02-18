@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2502.11167
     arxiv: https://arxiv.org/abs/2502.11167
     bibtex: ./assets/bib/surge.txt
-    image: ./assets/img/surge.jpg
+    image: ./assets/img/SURGE.pdf
     # notes: Oral Presentation
 
   - title: Trajectory World Models for Heterogeneous Environments
