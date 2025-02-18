@@ -1,0 +1,6 @@
+@article{lyu2025surge,
+  title   = {SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors},
+  author  = {Bohan Lyu and Siqiao Huang and Zichen Liang},
+  year    = {2025},
+  journal = {arXiv preprint arXiv: 2502.11167}
+}

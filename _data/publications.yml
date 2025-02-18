@@ -1,4 +1,15 @@
 main:
+
+  - title: "SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors"
+    authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2502.11167
+    arxiv: https://arxiv.org/abs/2502.11167
+    bibtex: ./assets/bib/surge.txt
+    image: ./assets/img/surge.pdf
+    # notes: Oral Presentation
+
   - title: Trajectory World Models for Heterogeneous Environments
     authors: Shaofeng Yin*, Jialong Wu*, <strong>Siqiao Huang</strong>, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#
     conference_short: arXiv
@@ -8,7 +19,9 @@ main:
     bibtex: ./assets/bib/trajectory_world_models.txt
     image: ./assets/img/trajworld.png
     # notes: Oral Presentation
+    
   
+
   #- title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
   #   conference_short: MICCAI
