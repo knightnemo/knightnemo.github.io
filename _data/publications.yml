@@ -8,6 +8,7 @@ main:
     arxiv: https://arxiv.org/abs/2502.11167
     bibtex: ./assets/bib/surge.txt
     image: ./assets/img/SURGE.pdf
+    huggingface: https://huggingface.co/papers/2502.11167
     # notes: Oral Presentation
 
   - title: Trajectory World Models for Heterogeneous Environments
