@@ -18,6 +18,7 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 - **Data-driven reinforcement learning & decision making**: Model-Based Reinforcement Learning, Offline Reinforcement Learning, Imitation Learning.
 
 ## News
+- **[May. 2025]** 📈[TrajWorld](https://arxiv.org/abs/2502.01366) is accepted by _ICML, 2025_.
 - **[Jan. 2025]** My [personal blog website](https://knightnemo.github.io/blog/) is officially online!
 - **[Nov. 2024]** Honored to receive Comprehensive Excellence Award of Tsinghua.
 - **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
