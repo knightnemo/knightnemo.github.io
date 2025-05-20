@@ -1,7 +1,7 @@
 main:
 
   - title: "SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors"
-    authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*
+    authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*, Qian Sun, <br> Jiaming Zhang
     conference_short: arXiv
     conference: arXiv preprint, 2025.
     pdf: https://arxiv.org/pdf/2502.11167
