@@ -1,0 +1,6 @@
+@article{huang2025vid2world0,
+  title   = {Vid2World: Crafting Video Diffusion Models to Interactive World Models},
+  author  = {Siqiao Huang and Jialong Wu and Qixing Zhou and Shangchen Miao and Mingsheng Long},
+  year    = {2025},
+  journal = {arXiv preprint arXiv: 2505.14357}
+}
