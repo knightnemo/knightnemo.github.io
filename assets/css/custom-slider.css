@@ -1,0 +1,109 @@
+/* 自定义滑块样式，更好地融入网站设计 */
+.image-slider {
+  margin: 25px 0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* 展开/折叠样式 */
+details {
+  margin: 15px 0;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+details summary {
+  padding: 10px 15px;
+  background-color: #f5f5f5;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  position: relative;
+  list-style: none;
+  transition: all 0.3s ease;
+}
+
+/* 移除默认的展开/折叠三角形 */
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* 自定义展开/折叠指示器 */
+details summary::before {
+  content: "▶";
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  transform: translateY(-50%);
+  transition: transform 0.3s ease;
+  top: 50%;
+  left: 5px;
+  font-size: 10px;
+  color: #666;
+}
+
+details[open] summary::before {
+  transform: translateY(-50%) rotate(90deg);
+}
+
+details summary {
+  padding-left: 25px;
+}
+
+details[open] summary {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/* 自定义图片滑块样式 */
+.slider-caption {
+  color: #333;
+  font-size: 14px;
+  padding: 8px 0;
+}
+
+.slider-nav-button {
+  opacity: 0.7;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.slider-nav-button:hover {
+  opacity: 1;
+}
+
+/* 响应式调整 */
+@media (min-width: 768px) {
+  .slider-item {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  
+  .slider-item:hover {
+    transform: translateY(-5px);
+  }
+}
+
+/* 暗模式支持 */
+@media (prefers-color-scheme: dark) {
+  details summary {
+    background-color: #2a2a2a;
+    color: #f0f0f0;
+  }
+  
+  .slider-caption {
+    color: #e0e0e0;
+  }
+  
+  .slider-nav-button {
+    background-color: rgba(50, 50, 50, 0.8);
+  }
+  
+  .slider-nav-button svg {
+    stroke: #f0f0f0;
+  }
+} 

@@ -1,0 +1,278 @@
+.simple-gallery {
+  position: relative;
+  max-width: 100%;
+  width: 100%;
+  margin: 15px 0;
+  overflow: hidden;
+  background-color: #f8f8f8;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-sizing: border-box;
+}
+
+.simple-gallery h3 {
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.gallery-container {
+  display: flex;
+  transition: transform 0.4s ease;
+  min-height: 280px;
+}
+
+.gallery-item {
+  flex: 0 0 100%;
+  display: none;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.gallery-item.active {
+  display: block;
+}
+
+.gallery-img {
+  max-width: 100%;
+  height: 250px;
+  object-fit: contain;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+  background-color: white;
+  padding: 4px;
+}
+
+.gallery-caption {
+  margin-top: 10px;
+  text-align: center;
+  font-weight: 500;
+  color: #333;
+  font-size: 15px;
+}
+
+.gallery-nav {
+  position: relative;
+  top: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: none;
+  z-index: 10;
+  padding: 0;
+  box-sizing: border-box;
+  left: 0;
+  pointer-events: none;
+  margin-top: 15px;
+}
+
+.gallery-btn {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  outline: none;
+  position: relative;
+  pointer-events: auto;
+  margin: 0 10px;
+}
+
+.gallery-btn:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+  transform: scale(1.1);
+}
+
+.gallery-btn:active {
+  transform: scale(0.95);
+}
+
+.gallery-btn.prev {
+  margin-left: 10px;
+}
+
+.gallery-btn.next {
+  margin-right: 10px;
+}
+
+.gallery-btn svg {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  stroke: #333;
+  stroke-width: 8;
+  fill: none;
+}
+
+/* 折叠/展开按钮样式 */
+details summary {
+  cursor: pointer;
+  padding: 8px 0;
+  background-color: transparent;
+  border-radius: 0;
+  margin-bottom: 10px;
+  font-weight: normal;
+  border: none;
+  outline: none;
+  color: inherit;
+  transition: none;
+}
+
+details summary:hover {
+  color: inherit;
+  background-color: transparent;
+}
+
+details[open] summary {
+  border-bottom: none;
+  margin-bottom: 15px;
+}
+
+/* 移除对summary内部三角形的自定义样式 */
+details summary::-webkit-details-marker {
+  color: inherit;
+}
+
+details summary::marker {
+  color: inherit;
+}
+
+/* 暗模式支持 */
+@media (prefers-color-scheme: dark) {
+  .simple-gallery {
+    background-color: rgba(30, 30, 30, 0.6); /* 半透明背景，更好地融入暗色环境 */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(60, 60, 60, 0.5); /* 微妙的边框 */
+  }
+
+  .simple-gallery h3 {
+    color: #e0e0e0;
+  }
+
+  .gallery-img {
+    background-color: rgba(38, 38, 38, 0.7); /* 半透明背景 */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(70, 70, 70, 0.3); /* 微妙的边框 */
+  }
+  
+  .gallery-caption {
+    color: #e0e0e0;
+  }
+  
+  .gallery-btn {
+    background-color: rgba(40, 40, 40, 0.7); /* 半透明按钮 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+  
+  .gallery-btn:hover {
+    background-color: rgba(50, 50, 50, 0.8);
+  }
+  
+  .gallery-btn svg {
+    stroke: #e0e0e0;
+  }
+  
+  .gallery-dot {
+    background-color: #555;
+  }
+  
+  .gallery-dot.active {
+    background-color: #ccc;
+  }
+  
+  details summary {
+    color: inherit;
+    background-color: transparent;
+  }
+  
+  details summary:hover {
+    color: inherit;
+    background-color: transparent;
+  }
+  
+  details[open] summary {
+    border-bottom-color: transparent;
+  }
+  
+  details summary::-webkit-details-marker {
+    color: inherit;
+  }
+  
+  details summary::marker {
+    color: inherit;
+  }
+}
+
+.gallery-dots {
+  display: flex;
+  justify-content: center;
+  margin: 0 10px;
+  pointer-events: auto;
+}
+
+.gallery-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ccc;
+  margin: 0 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.gallery-dot.active {
+  background-color: #555;
+}
+
+/* 添加一个新的类用于图片两侧的按钮 */
+.gallery-side-nav {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+  z-index: 10;
+  padding: 0;
+  box-sizing: border-box;
+  left: 0;
+  pointer-events: none;
+}
+
+.gallery-side-nav .gallery-btn {
+  margin: 0 10px;
+  opacity: 0.7;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.gallery-side-nav .gallery-btn:hover {
+  opacity: 1;
+}
+
+/* 控制details和summary元素的间距 */
+details[open] summary {
+  margin-bottom: 0;
+}
+
+details {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+details > * {
+  margin-top: 0;
+} 

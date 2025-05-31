@@ -4,11 +4,59 @@ layout: homepage
 
 ## About Me
 
-I'm currently an Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science.
+I'm currently an Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science. 
 
 In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
-I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!
+<p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!</p>
+<details style="margin-top: 0;">
+<summary style="margin-bottom: 0;">Some picture options: ( I'll try to keep this up to date )</summary>
+<link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;">
+<div class="simple-gallery" style="margin-top: 0;">
+  <text style="text-align: left; margin-top: 0;">Inspired by <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>'s homepage. Photos are taken within the past year.</text>
+  <div style="height: 0.5em;"></div>
+  <div class="gallery-container">
+    <div class="gallery-item active">
+      <img class="gallery-img" src="/assets/img/IMG_7629.JPG">
+      <div class="gallery-caption">Giving a talk on my recent work (first from the right) 🗣️</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="/assets/img/eating.jpg">
+      <div class="gallery-caption">Eating 😋</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="/assets/img/chillin.jpg">
+      <div class="gallery-caption">Hanging out with friends (second from left) 🤣</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="/assets/img/IMG_7631.JPG">
+      <div class="gallery-caption">Cuddling my dog at home 🐕</div>
+    </div>
+    <div class="gallery-side-nav">
+      <button class="gallery-btn prev" aria-label="Previous image">
+        <svg viewBox="0 0 50 80" width="16" height="16" xml:space="preserve">
+          <polyline fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="45,75 5,40 45,5"></polyline>
+        </svg>
+      </button>
+      <button class="gallery-btn next" aria-label="Next image">
+        <svg viewBox="0 0 50 80" width="16" height="16" xml:space="preserve">
+          <polyline fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="5,5 45,40 5,75"></polyline>
+        </svg>
+      </button>
+    </div>
+  </div>
+  <div class="gallery-nav">
+    <div class="gallery-dots">
+      <span class="gallery-dot active" data-index="0"></span>
+      <span class="gallery-dot" data-index="1"></span>
+      <span class="gallery-dot" data-index="2"></span>
+      <span class="gallery-dot" data-index="3"></span>
+    </div>
+  </div>
+</div>
+<script src="./assets/js/simple-gallery.js"></script>
+</details>
+<div style="height: 1em;"></div>
 
 ## Research Interests
 My research goal is to develop **Fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
@@ -60,3 +108,4 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 - I love animals (especially dogs). My parents and I raised three lovely Poodles.
 - In high school, I was quite into Physics & Chemistry, and participated in [Olympiad in Physics](http://cpho.pku.edu.cn) and [Olympiad in Chemistry](https://www.chemsoc.org.cn).
 - I am also a tech blogger, here's a link to [my blog website](https://knightnemo.github.io/blog/).
+

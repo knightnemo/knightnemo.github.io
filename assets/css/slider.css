@@ -1,0 +1,119 @@
+.image-slider {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+.slider-container {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slider-item {
+  flex: 0 0 100%;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.slider-item img {
+  width: 100%;
+  height: 250px; /* 统一高度 */
+  object-fit: cover; /* 保持图片比例并填充指定区域 */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.slider-caption {
+  margin-top: 10px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.slider-navigation {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+  z-index: 1;
+  pointer-events: none; /* 允许点击穿透 */
+}
+
+.slider-nav-button {
+  pointer-events: auto; /* 恢复按钮的点击功能 */
+  background-color: rgba(255, 255, 255, 0.8);
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.slider-nav-button:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+  transform: scale(1.1);
+}
+
+.slider-prev {
+  margin-left: 10px;
+}
+
+.slider-next {
+  margin-right: 10px;
+}
+
+.slider-nav-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: scale(1);
+}
+
+.slider-nav-button svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: #333;
+  stroke-width: 3;
+}
+
+/* 响应式调整 */
+@media (min-width: 768px) {
+  .slider-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    transform: none !important;
+  }
+  
+  .slider-navigation {
+    display: none;
+  }
+  
+  .slider-item {
+    flex: 0 0 calc(50% - 20px);
+    padding: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .slider-container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .slider-item img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .slider-item:hover img {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+} 
