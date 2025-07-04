@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I'm currently an Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science. 
+I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
 
 In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 <p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!</p>
 <details style="margin-top: 0;">
-<summary style="margin-bottom: 0;">Some picture options: ( I'll try to keep this up to date )</summary>
+<summary style="margin-bottom: 0;">Some picture options: ( I'll try to keep this up to date)</summary>
 <link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;">
 <div class="simple-gallery" style="margin-top: 0;">
   <text style="text-align: left; margin-top: 0;">Inspired by <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>'s homepage. Photos are taken within the past year.</text>
@@ -76,7 +76,7 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 
 - **B.S. in Computer Science**, Tsinghua University, 2023-2027 (_expected_).\\
     [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).\\
-    **GPA:** 3.933/4.000, **Rank:** 12/93.\\
+    **GPA:** 3.93/4.00, **Rank:** 12/93.\\
     **Selected Courses:** <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0.5em; color: gray;">Natural Language Processing <span style="color: Maroon;">(A+)</span>, Algebra and Computation <span style="color: Maroon;">(A+, Top 1)</span>,<br> Fundamentals of Programming <span style="color: Maroon;">(A+)</span>, Multi-modal Machine Learning <span style="color: orange;">(A)</span>,<br> Deep Learning <span style="color: orange;">(A)</span>, Computer Vision <span style="color: orange;">(A)</span>, Introduction to Computer Systems <span style="color: orange;">(A)</span>.</code>
     <details><summary>More Selected Courses:</summary> <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Basic Principles of Marxism <span style="color: Maroon;">(A+)</span>, The History of Western Music <span style="color: Maroon;">(A+)</span>,<br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
 
@@ -87,6 +87,7 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Honors & Awards 
+- **[2025]** Spark Scientific and Technological Innovation Fellowship (top 1%, 30 out of 3000)
 - **[2024]** Outstanding Sports Scholarship of Tsinghua University
 - **[2024]** Comprehensive Excellence Award of Tsinghua University
 
