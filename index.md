@@ -98,6 +98,7 @@ My research goal is to develop **Fundamental models with intrinsic understanding
 
 ### Reviewer
 - [ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling](https://sites.google.com/view/worldmodel-iclr2025/)
+- [NeurIPS 2025 Workshop: Embodied World Models for Decision Making](https://embodied-world-models.github.io)
 
 ## Language
 - **TOEFL**: Total Score **117/120** (On First Trial, Speaking 30/30).
