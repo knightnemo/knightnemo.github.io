@@ -6,9 +6,9 @@ layout: homepage
 
 I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
 
-In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
+Starting from the summer of 2025, I am a research intern at the [Machine Learning Department at Cargenie Mellon University](https://www.ml.cmu.edu), under the guidance of [Prof. Max Simchowitz](https://msimchowitz.github.io). Previously, I was a lab member at [Tsinghua University Machine Learning Group (THUML)](https://github.com/thuml), working with [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). **If you happen to be in Pittsburgh right now, I'd love to grab a coffee☕️ and chat🤗!**
 
-<p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!</p>
+<p style="margin-bottom: 0;">I'm always excited to connect with researchers who have a genuine passion for science itself, especially those who share the (perhaps somewhat idealistic) enthusiasm for tackling truly fundamental problems. Feel free to reach out if you'd like to collaborate or simply connect!</p>
 <details style="margin-top: 0;">
 <summary style="margin-bottom: 0;">Some picture options: ( I'll try to keep this up to date)</summary>
 <link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;">
