@@ -19,7 +19,7 @@
       <div class="title"><a href="{{ link.page }}">{{ link.title }}</a></div>
       {% if link.time %} 
       <div class="time">
-      {{ link.time }}
+      <i>{{ link.time }}</i>
       </div>
       {% endif %}
       {% if link.description %} 

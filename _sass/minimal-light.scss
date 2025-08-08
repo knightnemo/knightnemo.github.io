@@ -242,9 +242,9 @@ h1 {
 
 h2 {
   color:#043361;
-  font-weight: 500;
+  font-weight: bold;
   margin:2px 0px 15px;
-  font-size: 157%;
+  /* font-size: 157%; */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -361,7 +361,7 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
 }
 
 
@@ -411,7 +411,7 @@ header ul a:active {
 
 strong {
   color:#222;
-  font-weight:500;
+  font-weight:550;
 }
 
 @media (prefers-color-scheme: dark) {

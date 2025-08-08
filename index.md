@@ -6,8 +6,7 @@ layout: homepage
 
 I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
 
-In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
-
+In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). Currently, I am serving as a research intern at [MLD CMU](https://www.ml.cmu.edu), under the guidance of [Prof. Max Simchowitz](https://msimchowitz.github.io).
 <p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!</p>
 <details style="margin-top: 0;">
 <summary style="margin-bottom: 0;">Some picture options: ( I'll try to keep this up to date)</summary>
@@ -59,12 +58,13 @@ In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supe
 <div style="height: 1em;"></div>
 
 ## Research Interests
-My research goal is to develop **Fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
+My research goal is to develop **fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
 
-- **World Models**: State-based World Models, Visual World Models, Grounding Foundation Models(e.g. Video Diffusion Models, LLMs) to World Models.
+- **World Models**: Visual World Models, Object-Centric World Models, Grounding Foundation Models(e.g. Video Diffusion Models, LLMs) to World Models.
 
-- **Data-driven reinforcement learning & decision making**: Model-Based Reinforcement Learning, Offline Reinforcement Learning, Imitation Learning.
+- **Data-driven Reinforcement Learning & Decision Making**: Model-Based Reinforcement Learning, Offline Reinforcement Learning, Imitation Learning.
 
+Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 ## News
 - **[May. 2025]** I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00">_Sparking Program_</span>, the most prestigious and selective academic organization for students at Tsinghua University **(top 1% in university)**.
 - **[May. 2025]** 📈[TrajWorld](https://arxiv.org/abs/2502.01366) is accepted by _ICML, 2025_.

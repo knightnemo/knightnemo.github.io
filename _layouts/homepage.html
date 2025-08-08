@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{site.chinese_name}}</title>
     <meta name="google-site-verification" content="ZgByzZp1LJzKjGEPNYLkjUQUPpSXR88eG2XsgT2fIGU" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,7 +43,7 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1> <b>{{ site.title }}</b> </h1>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
