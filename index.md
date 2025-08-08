@@ -80,6 +80,7 @@ My research goal is to develop **Fundamental models with intrinsic understanding
     **Selected Courses:** <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0.5em; color: gray;">Natural Language Processing <span style="color: Maroon;">(A+)</span>, Algebra and Computation <span style="color: Maroon;">(A+, Top 1)</span>,<br> Fundamentals of Programming <span style="color: Maroon;">(A+)</span>, Multi-modal Machine Learning <span style="color: orange;">(A)</span>,<br> Deep Learning <span style="color: orange;">(A)</span>, Computer Vision <span style="color: orange;">(A)</span>, Introduction to Computer Systems <span style="color: orange;">(A)</span>.</code>
     <details><summary>More Selected Courses:</summary> <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Basic Principles of Marxism <span style="color: Maroon;">(A+)</span>, The History of Western Music <span style="color: Maroon;">(A+)</span>,<br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
 
+{% include_relative _includes/experience.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/projects.md %}
 

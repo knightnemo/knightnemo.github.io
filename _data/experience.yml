@@ -1,0 +1,11 @@
+main:
+  - title: "Machine Learning Department, CMU"
+    image: ./assets/img/mld_cmu.png
+    description: "<b>Research Intern</b> <br> Research Advisor: Prof. <a href='https://msimchowitz.github.io/'>Max Simchowitz</a>"
+    time: "2025.6 - Present"
+    page: https://msimchowitz.github.io/
+  - title: "Tsinghua Machine Learning Group (THUML)"
+    image: ./assets/img/thuml.png
+    description: "<b>Research Intern</b> <br> Research Advisor: Prof. <a href='https://ise.thss.tsinghua.edu.cn/~mlong/'>Mingsheng Long</a>"
+    time: "2024.7 - Present"
+    page: https://github.com/thuml  
