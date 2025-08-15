@@ -2,7 +2,7 @@ main:
   - title: "Vid2World: Crafting Video Diffusion Models to Interactive World Models"
     authors: <strong>Siqiao Huang</strong>*, Jialong Wu*, Qixing Zhou, Shangchen Miao, Mingsheng Long
     conference_short: arXiv
-    conference: arXiv preprint, 2025.
+    conference: ArXiv preprint, 2025
     page: https://knightnemo.github.io/vid2world/
     pdf: https://arxiv.org/pdf/2505.14357
     arxiv: https://arxiv.org/abs/2505.14357
@@ -12,7 +12,7 @@ main:
   - title: "SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors"
     authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*, Qian Sun, <br> Jiaming Zhang
     conference_short: arXiv
-    conference: arXiv preprint, 2025.
+    conference: ArXiv preprint, 2025
     pdf: https://arxiv.org/pdf/2502.11167
     arxiv: https://arxiv.org/abs/2502.11167
     bibtex: ./assets/bib/surge.txt

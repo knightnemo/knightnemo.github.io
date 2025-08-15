@@ -88,18 +88,17 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Honors & Awards 
-- **[2025]** Spark Scientific and Technological Innovation Fellowship (top 1%, 30 out of 3000)
+- **[2025]** Spark Scientific and Technological Innovation Fellowship (top 1%, 30/3000+)
 - **[2024]** Outstanding Sports Scholarship of Tsinghua University
 - **[2024]** Comprehensive Excellence Award of Tsinghua University
 
 ## Professional Services
 ### Teaching Assistant
 
-- Introduction to Artificial Intelligence, Spring 2025. Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
+- **Introduction to Artificial Intelligence, Spring 2025.**<em> Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).</em>
 
 ### Reviewer
-- [ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling](https://sites.google.com/view/worldmodel-iclr2025/)
-- [NeurIPS 2025 Workshop: Embodied World Models for Decision Making](https://embodied-world-models.github.io)
+- Workshops: [ICLR 2025 @ World Models](https://sites.google.com/view/worldmodel-iclr2025/), [NeurIPS 2025 @ EWM](https://embodied-world-models.github.io).
 
 ## Language
 - **TOEFL**: Total Score **117/120** (On First Trial, Speaking 30/30).
