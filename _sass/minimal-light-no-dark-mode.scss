@@ -14,6 +14,7 @@
   line-height:2.5rem;
   margin-right:1rem}
 
+
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
@@ -32,6 +33,7 @@
         background: #337ab7;
       }
      */
+
 
 .icon-button{
   background-color:white;
@@ -136,6 +138,9 @@ papertitle {
     font-size: 100%;
   }
 
+
+
+
   .image {
     border-radius: 0.35em;
     border: 0;
@@ -195,10 +200,17 @@ h1 {
 
 h2 {
   color:#043361;
-  font-weight: 500;
+  font-weight: bold;
   margin:2px 0px 15px;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  -webkit-text-decoration-color: #ad7020;
+  text-decoration-color: #fba524;
   font-size: 157%;
 }
+
+
+
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -220,6 +232,7 @@ a {
 a:hover {
   color:#069;
 }
+
 
 a small {
   font-size:11px;
@@ -278,6 +291,7 @@ th {
   color:#444;
 }
 
+
 img {
   max-width:100%;
 }
@@ -288,7 +302,7 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
 }
 
 
@@ -338,8 +352,9 @@ header ul a:active {
 
 strong {
   color:#222;
-  font-weight:500;
+  font-weight:550;
 }
+
 
 header ul li + li + li {
   border-right:none;

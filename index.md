@@ -9,7 +9,7 @@ I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Clas
 In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). Currently, I am serving as a research intern at [MLD CMU](https://www.ml.cmu.edu), under the guidance of [Prof. Max Simchowitz](https://msimchowitz.github.io).
 <p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!</p>
 <details style="margin-top: 0;">
-<summary style="margin-bottom: 0;">Some picture options: ( I'll try to keep this up to date)</summary>
+<summary style="margin-bottom: 0;">Some picture options: <em>( I'll try to keep this up to date)</em> </summary>
 <link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;">
 <div class="simple-gallery" style="margin-top: 0;">
   <text style="text-align: left; margin-top: 0;">Inspired by <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>'s homepage. Photos are taken within the past year.</text>
@@ -98,7 +98,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 - **Introduction to Artificial Intelligence, Spring 2025.**<em> Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).</em>
 
 ### Reviewer
-- Workshops: [ICLR 2025 @ World Models](https://sites.google.com/view/worldmodel-iclr2025/), [NeurIPS 2025 @ EWM](https://embodied-world-models.github.io).
+- **Workshops:** [ICLR 2025 @ World Models](https://sites.google.com/view/worldmodel-iclr2025/), [NeurIPS 2025 @ EWM](https://embodied-world-models.github.io).
 
 ## Language
 - **TOEFL**: Total Score **117/120** (On First Trial, Speaking 30/30).

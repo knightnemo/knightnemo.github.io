@@ -151,12 +151,12 @@ details summary::marker {
   color: inherit;
 }
 
-/* 暗模式支持 */
+/* 暗模式支持
 @media (prefers-color-scheme: dark) {
   .simple-gallery {
-    background-color: rgba(30, 30, 30, 0.6); /* 半透明背景，更好地融入暗色环境 */
+    background-color: rgba(30, 30, 30, 0.6); 
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-    border: 1px solid rgba(60, 60, 60, 0.5); /* 微妙的边框 */
+    border: 1px solid rgba(60, 60, 60, 0.5); 
   }
 
   .simple-gallery h3 {
@@ -164,9 +164,9 @@ details summary::marker {
   }
 
   .gallery-img {
-    background-color: rgba(38, 38, 38, 0.7); /* 半透明背景 */
+    background-color: rgba(38, 38, 38, 0.7); 
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
-    border: 1px solid rgba(70, 70, 70, 0.3); /* 微妙的边框 */
+    border: 1px solid rgba(70, 70, 70, 0.3); 
   }
   
   .gallery-caption {
@@ -174,7 +174,7 @@ details summary::marker {
   }
   
   .gallery-btn {
-    background-color: rgba(40, 40, 40, 0.7); /* 半透明按钮 */
+    background-color: rgba(40, 40, 40, 0.7); 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
   }
   
@@ -216,7 +216,7 @@ details summary::marker {
     color: inherit;
   }
 }
-
+*/
 .gallery-dots {
   display: flex;
   justify-content: center;
