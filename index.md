@@ -66,12 +66,12 @@ My research goal is to develop **fundamental models with intrinsic understanding
 
 Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 ## News
-- **[Aug. 2025]** 🌊[SURGE](https://arxiv.org/abs/2502.11167) is accepted by _EMNLP, 2025_.
-- **[May. 2025]** I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00">_Sparking Program_</span>, the most prestigious and selective academic organization for students at Tsinghua University **(top 1%)**.
-- **[May. 2025]** 📈[TrajWorld](https://arxiv.org/abs/2502.01366) is accepted by _ICML, 2025_.
-- **[Jan. 2025]** My [personal blog website](https://knightnemo.github.io/blog/) is officially online!
-- **[Nov. 2024]** Honored to receive Comprehensive Excellence Award of Tsinghua.
-- **[Nov. 2024]** Glad to receive Outstanding Sports Scholarship of Tsinghua.
+- **[Aug. 2025]** 🐋 <b>[SURGE](https://arxiv.org/abs/2502.11167)</b> is accepted by **_EMNLP 2025 Main_**, with a **top 0.3%** meta score!
+- **[May. 2025]** 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00">_<b>Sparking Program</b>_</span>, the most prestigious and selective academic organization for students at Tsinghua University **(top 1%)**.
+- **[May. 2025]** 📈 <b>[TrajWorld](https://arxiv.org/abs/2502.01366)</b> is accepted by **_ICML, 2025_**.
+- **[Jan. 2025]** 📜 My <b>[personal blog website](https://knightnemo.github.io/blog/)</b> is officially online!
+- **[Nov. 2024]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
+- **[Nov. 2024]** 🏆 Glad to receive _**Outstanding Sports Scholarship of Tsinghua**_.
 
 ## Education
 
