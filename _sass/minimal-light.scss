@@ -599,3 +599,54 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* News scrollable section styles */
+.news-container {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #e9ecef;
+}
+
+.news-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.news-container::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+.news-container::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+.news-container h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #333;
+  font-size: 1.5em;
+}
+
+.news-container ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.news-container li {
+  margin-bottom: 0px;
+  line-height: 1.0;
+  color: #555;
+}
+
+.news-container li:last-child {
+  margin-bottom: 0;
+}
