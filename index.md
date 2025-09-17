@@ -7,6 +7,7 @@ layout: homepage
 I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
 
 In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). Currently, I am serving as a research intern at [MLD CMU](https://www.ml.cmu.edu), under the guidance of [Prof. Max Simchowitz](https://msimchowitz.github.io).
+
 <p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!</p>
 <details style="margin-top: 0;">
 <summary style="margin-bottom: 0;">Some picture options: <em>( I'll try to keep this up to date)</em> </summary>
@@ -55,8 +56,11 @@ In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supe
 </div>
 <script src="./assets/js/simple-gallery.js"></script>
 </details>
-<div style="height: 1em;"></div>
-
+<div style="height: 0.5em;"></div>
+<div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin: 10px 0; border-left: 4px solid #007acc;">
+🎯 <b><em>I am currently actively looking for on-site RA opportunities (Feb. 2026- Sep. 2026) at US universities or research institutes, please contact me if interested!</em></b>
+</div>
+<div style="height: 0.5em;"></div>
 ## Research Interests
 My research goal is to develop **fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
 
