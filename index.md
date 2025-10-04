@@ -71,7 +71,7 @@ My research goal is to develop **fundamental models with intrinsic understanding
 
 - **World Models**: Visual World Models, Object-Centric World Models, Grounding Foundation Models(e.g. Video Diffusion Models, LLMs) to World Models.
 
-- **Data-driven Reinforcement Learning & Decision Making**: Model-Based Reinforcement Learning, Offline Reinforcement Learning, Imitation Learning.
+- **Generalist Robot Policies**: VLAs, Humanoid Foundation Models, Video-Centric Generalist Policies.
 
 Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 
