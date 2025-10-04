@@ -66,6 +66,10 @@ In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supe
 <div style="height: 0.5em;"></div>
 -->
 
+## SRI
+
+My SRI is 93. Test yours [here](https://step1-q925dx4-bpn76b63exgm.deno.dev/assessment)!
+
 ## Research Interests
 My research goal is to develop **fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
 
