@@ -21,8 +21,8 @@ In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supe
       <div class="gallery-caption">Giving a talk on my recent work (first from the right) 🗣️</div>
     </div>
     <div class="gallery-item">
-      <img class="gallery-img" src="/assets/img/eating.jpg">
-      <div class="gallery-caption">Eating 😋</div>
+      <img class="gallery-img" src="/assets/img/andy_worhol.jpg">
+      <div class="gallery-caption">At the <a href="https://www.warhol.org/">Andy Worhol Museum</a> @ Pittsburgh 👨‍🎨</div>
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="/assets/img/chillin.jpg">
@@ -31,6 +31,14 @@ In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supe
     <div class="gallery-item">
       <img class="gallery-img" src="/assets/img/IMG_7631.JPG">
       <div class="gallery-caption">Cuddling my dog at home 🐕</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="/assets/img/eating.jpg">
+      <div class="gallery-caption">Eating 😋</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="/assets/img/i_love_cali.png">
+      <div class="gallery-caption">At the <a href="https://www.warhol.org/">Andy Worhol Museum</a> @ Pittsburgh 👨‍🎨</div>
     </div>
     <div class="gallery-side-nav">
       <button class="gallery-btn prev" aria-label="Previous image">
@@ -51,6 +59,8 @@ In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supe
       <span class="gallery-dot" data-index="1"></span>
       <span class="gallery-dot" data-index="2"></span>
       <span class="gallery-dot" data-index="3"></span>
+      <span class="gallery-dot" data-index="4"></span>
+      <span class="gallery-dot" data-index="5"></span>
     </div>
   </div>
 </div>
@@ -98,7 +108,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 
 - **B.S. in Computer Science**, Tsinghua University, 2023-2027 (_expected_).\\
     [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).\\
-    **GPA:** 3.93/4.00, **Rank:** 10/92.\\
+    **GPA:** 3.93/4.00, **Rank:** 9/91.\\
     **Selected Courses:** <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0.5em; color: gray;">Natural Language Processing <span style="color: Maroon;">(A+)</span>, Algebra and Computation <span style="color: Maroon;">(A+, Top 1)</span>,<br> Fundamentals of Programming <span style="color: Maroon;">(A+)</span>, Multi-modal Machine Learning <span style="color: orange;">(A)</span>,<br> Deep Learning <span style="color: orange;">(A)</span>, Computer Vision <span style="color: orange;">(A)</span>, Introduction to Computer Systems <span style="color: orange;">(A)</span>.</code>
     <details><summary>More Selected Courses:</summary> <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Basic Principles of Marxism <span style="color: Maroon;">(A+)</span>, The History of Western Music <span style="color: Maroon;">(A+)</span>,<br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
 

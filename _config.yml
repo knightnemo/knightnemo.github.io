@@ -22,6 +22,10 @@ twitter: https://x.com/KnightNemo_
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/me.jpg
+# Avatar crop settings - set to true to enable center crop
+avatar_center_crop: true
+# Avatar aspect ratio - set to "square" for 1:1, "portrait" for 3:4, "landscape" for 4:3, or "original" to keep original
+avatar_aspect_ratio: "square"
 favicon: ./assets/img/icon.png
 favicon_dark: ./assets/img/icon.png
 
