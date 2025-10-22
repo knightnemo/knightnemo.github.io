@@ -38,7 +38,7 @@ In the summer of 2024, I joined [THUML](https://github.com/thuml) under the supe
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="/assets/img/i_love_cali.png">
-      <div class="gallery-caption">At the <a href="https://www.warhol.org/">Andy Worhol Museum</a> @ Pittsburgh 👨‍🎨</div>
+      <div class="gallery-caption">Golden Gate Bridge 🌉</div>
     </div>
     <div class="gallery-side-nav">
       <button class="gallery-btn prev" aria-label="Previous image">
