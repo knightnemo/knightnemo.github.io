@@ -1,20 +1,26 @@
 main:
+  - title: "<span style='font-size: 1.1em;'>Awesome World Models 🌍 </span> <a href='https://github.com/knightnemo/Awesome-World-Models'> <img src='https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>"
+    image: ./assets/img/awm.png
+    description: "A curated list of awesome works in world modeling, aiming to serve as a one-stop resource for everyone interested in world modeling. [<a href='https://x.com/KnightNemo_/status/1984436712433426692'><b>🧵 Twitter Thread</b></a>]"
+    page: https://github.com/knightnemo/Awesome-World-Models
+    code: https://github.com/knightnemo/Awesome-World-Models
+    notes: Hot! 100+ Stars in under 24 Hours!
   - title: "A Survey on K-means Clustering Algorithms: Theoretical Analysis and Performance Comparison"
     image: ./assets/img/kmeans.jpg
     description: "Elucidated the computational complexity and convergence properties of K-means clustering algorithms and its variants."
     pdf: ./assets/files/clustering.pdf
     page: https://leo1oel.github.io/clustering/
-  - title: "DreamFactory : Grounding Language Models to World Models"
-    image: ./assets/img/dreamfactory.png
-    description: "We investigated the feasibility of utilizing language models as text-based world models. Through empirical study, we found that the performance is greatly hindered by overlengthy CoTs, and we proposed DreamFactory, a novel architecture to address this issue."
-    pdf: ./assets/files/DreamFactory.pdf
-    code: https://github.com/knightnemo/nlp-proj
-  - title: "MANIGEN: generative simulation pipeline with maniskill2"
-    image: ./assets/img/eai.png
-    description: "We introduce ManiGen, a generative simulation pipeline using ManiSkill to automate task creation. It utilizes the power of LLMs to propose tasks, generate scenes, and produce task-specific code for rewards, parameters, and metrics."
-    page: https://sites.google.com/view/eai-manigen/
-    pdf: ./assets/files/EAI_Report.pdf
-    code: https://github.com/Simpson561/EAI_proj
+  # - title: "DreamFactory : Grounding Language Models to World Models"
+  #   image: ./assets/img/dreamfactory.png
+  #   description: "We investigated the feasibility of utilizing language models as text-based world models. Through empirical study, we found that the performance is greatly hindered by overlengthy CoTs, and we proposed DreamFactory, a novel architecture to address this issue."
+  #   pdf: ./assets/files/DreamFactory.pdf
+  #   code: https://github.com/knightnemo/nlp-proj
+  # - title: "MANIGEN: generative simulation pipeline with maniskill2"
+  #   image: ./assets/img/eai.png
+  #   description: "We introduce ManiGen, a generative simulation pipeline using ManiSkill to automate task creation. It utilizes the power of LLMs to propose tasks, generate scenes, and produce task-specific code for rewards, parameters, and metrics."
+  #   page: https://sites.google.com/view/eai-manigen/
+  #   pdf: ./assets/files/EAI_Report.pdf
+  #   code: https://github.com/Simpson561/EAI_proj
   - title: "Course Sharing Platform"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
