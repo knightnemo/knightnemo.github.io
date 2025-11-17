@@ -86,6 +86,7 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 
 ## News
+- **[Nov. 2025]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
 - **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! [![GitHub stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)](https://github.com/knightnemo/Awesome-World-Models/stargazers)
 - **[Aug. 2025]** 🐋 <b>[SURGE](https://arxiv.org/abs/2502.11167)</b> is accepted by **_EMNLP 2025 Main_**, with a **top 0.3%** meta score!
 - **[May. 2025]** 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00">_<b>Sparking Program</b>_</span>, the most prestigious and selective academic organization for students at Tsinghua University **(top 1%)**.
@@ -121,6 +122,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Honors & Awards 
+- **[2025]** Comprehensive Excellence Award of Tsinghua University
 - **[2025]** Spark Scientific and Technological Innovation Fellowship (top 1%, 30/3000+)
 - **[2024]** Outstanding Sports Scholarship of Tsinghua University
 - **[2024]** Comprehensive Excellence Award of Tsinghua University
