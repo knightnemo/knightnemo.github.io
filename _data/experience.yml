@@ -1,11 +1,16 @@
 main:
   - title: "Machine Learning Department, CMU"
     image: ./assets/img/mld_cmu.png
-    description: "<b>Research Intern</b> <br> Research Advisor: Prof. <a href='https://msimchowitz.github.io/'>Max Simchowitz</a>"
-    time: "2025.6 - Present"
+    description: "<i><b>Topics</b>: World Models, Generative Models, Learning in Sequential Environments and Dynamical Systems.</i> <br> <b>Research Advisor</b>: Prof. <a href='https://msimchowitz.github.io/'>Max Simchowitz</a>."
+    time: "<b>Research Intern</b>: 2025.6 - Present."
+    page: https://msimchowitz.github.io/
+  - title: "MARS Lab, Tsinghua University"
+    image: ./assets/img/mars_lab.png
+    description: "<i><b>Topics</b>: Humanoid Foundation Models, VLAs, Generative Control Policies. <br> </i> <b>Research Advisor</b>: Prof. <a href='https://hangzhaomit.github.io/'>Hang Zhao</a>."
+    time: "<b>Research Intern</b>: 2025.9 - Present."
     page: https://msimchowitz.github.io/
   - title: "Tsinghua Machine Learning Group (THUML)"
     image: ./assets/img/thuml.png
-    description: "<b>Research Intern</b> <br> Research Advisor: Prof. <a href='https://ise.thss.tsinghua.edu.cn/~mlong/'>Mingsheng Long</a>"
-    time: "2024.7 - Present"
+    description: "<i><b>Topics</b>: World Models, Sequential Modeling.</i><br> <b>Research Advisor</b>: Prof. <a href='https://ise.thss.tsinghua.edu.cn/~mlong/'>Mingsheng Long</a>."
+    time: "<b>Research Intern</b>: 2024.7 - 2025.11."
     page: https://github.com/thuml  

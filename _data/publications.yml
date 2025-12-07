@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2505.14357
     arxiv: https://arxiv.org/abs/2505.14357
     bibtex: ./assets/bib/vid2world.txt
-    image: ./assets/img/vid2world.png
+    image: ./assets/img/v2w.png
     huggingface: https://huggingface.co/papers/2505.14357
   - title: "SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors"
     authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*, Qian Sun, <br> Jiaming Zhang
