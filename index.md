@@ -8,7 +8,7 @@ I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Clas
 
 Currently, I am serving as a research intern at [MLD CMU](https://www.ml.cmu.edu), under the guidance of [Prof. Max Simchowitz](https://msimchowitz.github.io). Before that, I was fortunate to be a member of [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
-<p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. Please feel free to reach out!</p>
+<p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. <b><i style="color: #043361!important;">I am currently seeking a PhD position starting in 2027 Fall</i></b>, and am happy to discuss potential research fit and collaboration opportunities.</p>
 <details style="margin-top: 0;">
 <summary style="margin-bottom: 0;">Some picture options: <em>( I'll try to keep this up to date)</em> </summary>
 <link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;">
