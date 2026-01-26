@@ -86,7 +86,7 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 
 ## News
-- **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://arxiv.org/abs/2502.11167)</b> is accepted by **_ICLR 2026_**!
+- **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://knightnemo.github.io/vid2world/)</b> is accepted by **_ICLR 2026_**!
 - **[Nov. 2025]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
 - **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! [![GitHub stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)](https://github.com/knightnemo/Awesome-World-Models/stargazers)
 - **[Aug. 2025]** 🐋 <b>[SURGE](https://arxiv.org/abs/2502.11167)</b> is accepted by **_EMNLP 2025 Main_**, with a **top 0.3%** meta score!
