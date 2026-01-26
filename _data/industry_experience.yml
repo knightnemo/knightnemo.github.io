@@ -1,0 +1,8 @@
+industry:
+  # Add your industry experience here
+  # Example:
+  - title: "Wuji Technology"
+    image: ./assets/img/wuji.png
+    description: "<i><b>Topics</b>: Dexterous Manipulation, Video-Centric Generalist Policies, Robot Foundation Models.</i>"
+    time: "<b>Research Scientist</b>: 2026.1 - Present."
+    page: https://wuji.tech

@@ -86,25 +86,30 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 
 ## News
+- **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://arxiv.org/abs/2502.11167)</b> is accepted by **_ICLR 2026_**!
 - **[Nov. 2025]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
 - **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! [![GitHub stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)](https://github.com/knightnemo/Awesome-World-Models/stargazers)
 - **[Aug. 2025]** 🐋 <b>[SURGE](https://arxiv.org/abs/2502.11167)</b> is accepted by **_EMNLP 2025 Main_**, with a **top 0.3%** meta score!
 - **[May. 2025]** 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00">_<b>Sparking Program</b>_</span>, the most prestigious and selective academic organization for students at Tsinghua University **(top 1%)**.
-- **[May. 2025]** 📈 <b>[TrajWorld](https://arxiv.org/abs/2502.01366)</b> is accepted by **_ICML, 2025_**.
+
+<!-- - **[May. 2025]** 📈 <b>[TrajWorld](https://arxiv.org/abs/2502.01366)</b> is accepted by **_ICML, 2025_**.
 - **[Jan. 2025]** 📜 My <b>[personal blog website](https://knightnemo.github.io/blog/)</b> is officially online!
 - **[Nov. 2024]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
-- **[Nov. 2024]** 🏆 Glad to receive _**Outstanding Sports Scholarship of Tsinghua**_.
+- **[Nov. 2024]** 🏆 Glad to receive _**Outstanding Sports Scholarship of Tsinghua**_.-->
 
-<!-- <div class="news-container">
+<!--<div class="news-container">
 <ul>
-<li><strong>[Aug. 2025]</strong> 🐋 <b><a href="https://arxiv.org/abs/2502.11167">SURGE</a></b> is accepted by <em><strong>EMNLP 2025 Main</strong></em>, with a <strong>top 0.3%</strong> meta score!</li>
+<li><strong>[Jan. 2026]</strong> 🎥 First-authored Paper <b><a href="https://arxiv.org/abs/2502.11167">Vid2World</a></b> is accepted by <em><strong>ICLR 2026</strong></em>!</li>
+<li><strong>[Nov. 2025]</strong> 🏆 Honored to receive <em><strong>Comprehensive Excellence Award of Tsinghua</strong></em>.</li>
+<li><strong>[Nov. 2025]</strong> <b><a href="https://github.com/knightnemo/Awesome-World-Models">🌍 Awesome World Models</a></b> is released! <a href="https://github.com/knightnemo/Awesome-World-Models/stargazers"><img src="https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social" alt="GitHub stars"></a></li>
+<li><strong>[Aug. 2025]</strong> 🐋 <b><a href="https://arxiv.org/abs/2502.11167">SURGE</a></b> is accepted by <em><strong>EMNLP 2025</strong></em>, with a <strong>top 0.3%</strong> meta score!</li>
 <li><strong>[May. 2025]</strong> 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00"><em><b>Sparking Program</b></em></span>, the most prestigious and selective academic organization for students at Tsinghua University <strong>(top 1%)</strong>.</li>
 <li><strong>[May. 2025]</strong> 📈 <b><a href="https://arxiv.org/abs/2502.01366">TrajWorld</a></b> is accepted by <em><strong>ICML, 2025</strong></em>.</li>
 <li><strong>[Jan. 2025]</strong> 📜 My <b><a href="https://knightnemo.github.io/blog/">personal blog website</a></b> is officially online!</li>
 <li><strong>[Nov. 2024]</strong> 🏆 Honored to receive <em><strong>Comprehensive Excellence Award of Tsinghua</strong></em>.</li>
 <li><strong>[Nov. 2024]</strong> 🏆 Glad to receive <em><strong>Outstanding Sports Scholarship of Tsinghua</strong></em>.</li>
 </ul>
-</div> -->
+</div>-->
 
 ## Education
 
@@ -117,7 +122,6 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/projects.md %}
 {% include_relative _includes/experience.md %}
-
 
 <!-- {% include_relative _includes/services.md %} -->
 

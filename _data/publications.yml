@@ -1,8 +1,8 @@
 main:
   - title: "Vid2World: Crafting Video Diffusion Models to Interactive World Models"
     authors: <strong>Siqiao Huang</strong>*, Jialong Wu*, Qixing Zhou, Shangchen Miao, Mingsheng Long
-    conference_short: arXiv
-    conference: ArXiv preprint, 2025.
+    conference_short: ICLR
+    conference: ICLR 2026.
     page: https://knightnemo.github.io/vid2world/
     pdf: https://arxiv.org/pdf/2505.14357
     arxiv: https://arxiv.org/abs/2505.14357
