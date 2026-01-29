@@ -138,7 +138,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 
 ### Reviewer
 - **Conferences**: [ICML 2026](https://icml.cc).
-- **Workshops:** [ICLR 2025 @ World Models](https://sites.google.com/view/worldmodel-iclr2025/), [NeurIPS 2025 @ EWM](https://embodied-world-models.github.io).
+- **Workshops:** [ICLR 2025 @ World Models](https://sites.google.com/view/worldmodel-iclr2025/), [NeurIPS 2025 @ EWM](https://embodied-world-models.github.io), [ICLR 2026 @ World Models](https://sites.google.com/view/iclr-2026-workshop-world-model/home).
 
 ## Language
 - **TOEFL**: Total Score **117/120** (On First Trial, Speaking 30/30).
