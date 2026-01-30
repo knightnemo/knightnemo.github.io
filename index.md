@@ -115,7 +115,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 
 - **B.S. in Computer Science**, Tsinghua University, 2023-2027 (_expected_).\\
     [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).\\
-    **GPA:** 3.93/4.00, **Rank:** 9/91.\\
+    **GPA:** 3.94/4.00, **Rank:** 9/91.\\
     **Selected Courses:** <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0.5em; color: gray;">Natural Language Processing <span style="color: Maroon;">(A+)</span>, Algebra and Computation <span style="color: Maroon;">(A+, Top 1)</span>,<br> Fundamentals of Programming <span style="color: Maroon;">(A+)</span>, Multi-modal Machine Learning <span style="color: orange;">(A)</span>,<br> Deep Learning <span style="color: orange;">(A)</span>, Computer Vision <span style="color: orange;">(A)</span>, Introduction to Computer Systems <span style="color: orange;">(A)</span>.</code>
     <details><summary>More Selected Courses:</summary> <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Basic Principles of Marxism <span style="color: Maroon;">(A+)</span>, The History of Western Music <span style="color: Maroon;">(A+)</span>,<br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
 
