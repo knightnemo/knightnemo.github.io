@@ -6,7 +6,7 @@ layout: homepage
 
 I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
 
-Currently, I am serving as a research intern at [MLD CMU](https://www.ml.cmu.edu), under the guidance of [Prof. Max Simchowitz](https://msimchowitz.github.io). Before that, I was fortunate to be a member of [THUML](https://github.com/thuml) under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
+Currently, I am serving as a research intern at [WEIRD Lab, University of Washington](https://weirdlab.cs.washington.edu/), under the supervision of [Prof. Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/). Prior to this, I was extremely fortunate to be advised by [Prof. Max Simchowitz](https://msimchowitz.github.io), where I spent an amazing summer at [CMU MLD](https://www.ml.cmu.edu). I am also deeply honored for the experience of working with [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 <p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. <b><i style="color: #043361!important;">I am currently seeking a PhD position starting in 2027 Fall</i></b>, and am happy to discuss potential research fit and collaboration opportunities.</p>
 <details style="margin-top: 0;">

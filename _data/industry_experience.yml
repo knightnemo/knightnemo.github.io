@@ -3,6 +3,6 @@ industry:
   # Example:
   - title: "Wuji Technology"
     image: ./assets/img/wuji.png
-    description: "<i><b>Topics</b>: Dexterous Manipulation, Video-Centric Generalist Policies, Robot Foundation Models.</i>"
+    description: '<i><b style="color: #043361 !important;">WAM Team Lead</b></i>. <i><b>Topics</b>: Dexterous Manipulation, Video-Centric Generalist Policies, Robot Foundation Models.</i>'
     time: "<b>Research Scientist</b>: 2026.1 - Present."
     page: https://wuji.tech

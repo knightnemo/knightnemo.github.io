@@ -2,12 +2,12 @@ academic:
   - title: "WEIRD Lab, University of Washington"
     image: ./assets/img/weird.png
     description: "<i><b>Topics</b>: Robot Manipulation, Test-time Adaptation, VLA, World Models, Real-World RL, Science of Robotics.</i> <br> <b>Research Advisor</b>: Prof. <a href='https://homes.cs.washington.edu/~abhgupta/'>Abhishek Gupta</a>."
-    time: "<b>Research Intern: </b> 2026.2. - Present. <i>(Estimated)</i>"
+    time: "<b>Research Intern: </b> 2026.3 - Present. "
     page: https://weirdlab.cs.washington.edu/
   - title: "Machine Learning Department, CMU"
     image: ./assets/img/mld_cmu.png
     description: "<i><b>Topics</b>: World Models, Generative Models, Learning in Sequential Environments and Dynamical Systems.</i> <br> <b>Research Advisor</b>: Prof. <a href='https://msimchowitz.github.io/'>Max Simchowitz</a>."
-    time: "<b>Research Intern</b>: 2025.6 - Present."
+    time: "<b>Research Intern</b>: 2025.6 - 2026.3."
     page: https://msimchowitz.github.io/
   - title: "MARS Lab, Tsinghua University"
     image: ./assets/img/mars_lab.png
