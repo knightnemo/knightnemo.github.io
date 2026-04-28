@@ -17,6 +17,14 @@ Currently, I am serving as a research intern at [WEIRD Lab, University of Washin
   <div style="height: 0.5em;"></div>
   <div class="gallery-container">
     <div class="gallery-item active">
+      <img class="gallery-img" src="/assets/img/pic_with_yann.jpg">
+      <div class="gallery-caption">Photo with <a href="http://yann.lecun.com/">Prof. Yann LeCun</a> @ AMI Mixup <br>(this will probably be here for a while) 😝</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="/assets/img/iclr_poster.jpg">
+      <div class="gallery-caption">Poster session at ICLR'26 🙌</div>
+    </div>
+    <div class="gallery-item">
       <img class="gallery-img" src="/assets/img/IMG_7629.JPG">
       <div class="gallery-caption">Giving a talk on my recent work (first from the right) 🗣️</div>
     </div>
@@ -24,6 +32,7 @@ Currently, I am serving as a research intern at [WEIRD Lab, University of Washin
       <img class="gallery-img" src="/assets/img/andy_worhol.jpg">
       <div class="gallery-caption">At the <a href="https://www.warhol.org/">Andy Worhol Museum</a> @ Pittsburgh 👨‍🎨</div>
     </div>
+    <!--
     <div class="gallery-item">
       <img class="gallery-img" src="/assets/img/chillin.jpg">
       <div class="gallery-caption">Hanging out with friends (second from left) 🤣</div>
@@ -36,6 +45,7 @@ Currently, I am serving as a research intern at [WEIRD Lab, University of Washin
       <img class="gallery-img" src="/assets/img/eating.jpg">
       <div class="gallery-caption">Eating 😋</div>
     </div>
+    -->
     <div class="gallery-item">
       <img class="gallery-img" src="/assets/img/i_love_cali.png">
       <div class="gallery-caption">Golden Gate Bridge 🌉</div>
@@ -60,7 +70,6 @@ Currently, I am serving as a research intern at [WEIRD Lab, University of Washin
       <span class="gallery-dot" data-index="2"></span>
       <span class="gallery-dot" data-index="3"></span>
       <span class="gallery-dot" data-index="4"></span>
-      <span class="gallery-dot" data-index="5"></span>
     </div>
   </div>
 </div>
