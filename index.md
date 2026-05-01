@@ -97,7 +97,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 ## News
 - **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://knightnemo.github.io/vid2world/)</b> is accepted by **_ICLR 2026_**!
 - **[Nov. 2025]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
-- **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! [![GitHub stars](https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social)](https://github.com/knightnemo/Awesome-World-Models/stargazers)
+- **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! [![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fknightnemo%2FAwesome-World-Models&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600)](https://github.com/knightnemo/Awesome-World-Models/stargazers)
 - **[Aug. 2025]** 🐋 <b>[SURGE](https://arxiv.org/abs/2502.11167)</b> is accepted by **_EMNLP 2025 Main_**, with a **top 0.3%** meta score!
 - **[May. 2025]** 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00">_<b>Sparking Program</b>_</span>, the most prestigious and selective academic organization for students at Tsinghua University **(top 1%)**.
 
@@ -110,7 +110,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 <ul>
 <li><strong>[Jan. 2026]</strong> 🎥 First-authored Paper <b><a href="https://arxiv.org/abs/2502.11167">Vid2World</a></b> is accepted by <em><strong>ICLR 2026</strong></em>!</li>
 <li><strong>[Nov. 2025]</strong> 🏆 Honored to receive <em><strong>Comprehensive Excellence Award of Tsinghua</strong></em>.</li>
-<li><strong>[Nov. 2025]</strong> <b><a href="https://github.com/knightnemo/Awesome-World-Models">🌍 Awesome World Models</a></b> is released! <a href="https://github.com/knightnemo/Awesome-World-Models/stargazers"><img src="https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social" alt="GitHub stars"></a></li>
+<li><strong>[Nov. 2025]</strong> <b><a href="https://github.com/knightnemo/Awesome-World-Models">🌍 Awesome World Models</a></b> is released! <a href="https://github.com/knightnemo/Awesome-World-Models/stargazers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fknightnemo%2FAwesome-World-Models&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600" alt="GitHub stars"></a></li>
 <li><strong>[Aug. 2025]</strong> 🐋 <b><a href="https://arxiv.org/abs/2502.11167">SURGE</a></b> is accepted by <em><strong>EMNLP 2025</strong></em>, with a <strong>top 0.3%</strong> meta score!</li>
 <li><strong>[May. 2025]</strong> 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00"><em><b>Sparking Program</b></em></span>, the most prestigious and selective academic organization for students at Tsinghua University <strong>(top 1%)</strong>.</li>
 <li><strong>[May. 2025]</strong> 📈 <b><a href="https://arxiv.org/abs/2502.01366">TrajWorld</a></b> is accepted by <em><strong>ICML, 2025</strong></em>.</li>
@@ -158,4 +158,3 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 - I love animals (especially dogs). My parents and I raised three lovely Poodles.
 - In high school, I was quite into Physics & Chemistry, and participated in [Olympiad in Physics](http://cpho.pku.edu.cn) and [Olympiad in Chemistry](https://www.chemsoc.org.cn).
 - I am also a tech blogger, here's a link to [my blog website](https://knightnemo.github.io/blog/).
-

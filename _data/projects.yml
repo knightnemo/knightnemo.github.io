@@ -1,5 +1,5 @@
 main:
-  - title: "<span style='font-size: 1.1em;'>Awesome World Models 🌍 </span> <a href='https://github.com/knightnemo/Awesome-World-Models'> <img src='https://img.shields.io/github/stars/knightnemo/Awesome-World-Models?style=social' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>"
+  - title: "<span style='font-size: 1.1em;'>Awesome World Models 🌍 </span> <a href='https://github.com/knightnemo/Awesome-World-Models'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fknightnemo%2FAwesome-World-Models&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>"
     image: ./assets/img/awm.png
     description: "A curated list of awesome works in world modeling, aiming to serve as a one-stop resource for everyone interested in world modeling. [<a href='https://x.com/KnightNemo_/status/1984436712433426692'><b>🧵 Twitter Thread</b></a>]"
     page: https://github.com/knightnemo/Awesome-World-Models
