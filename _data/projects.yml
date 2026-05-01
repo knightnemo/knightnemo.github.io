@@ -5,7 +5,7 @@ main:
     page: https://github.com/knightnemo/Awesome-World-Models
     code: https://github.com/knightnemo/Awesome-World-Models
     notes: Hot! 100+ Stars in under 24 Hours!
-  - title: "<span style='font-size: 1.1em;'>Nano World Models 🌎 </span> <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img src='https://img.shields.io/github/stars/simchowitzlabpublic/nano-world-model.svg?style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>"
+  - title: "<span style='font-size: 1.1em;'>Nano World Models 🌎 </span> <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsimchowitzlabpublic%2Fnano-world-model&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>"
     image: ./assets/img/grid_video.gif
     description: "A minimalist, batteries-included repo for training, evaluating, and deploying diffusion-forcing-based world models toward open, reproducible world model science."
     page: https://simchowitzlabpublic.github.io/nano-world-model/
