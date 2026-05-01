@@ -1,0 +1,8 @@
+@misc{nanoworldmodels,
+  title={Nano World Model: A Minimalist, Batteries-Included Repository for Advancing World Model Science},
+  author={Siqiao Huang and Partha Kaushik and Michael Chen and Hengkai Pan and Kaiwen Geng and Omar Chehab and Fernando Moreno-Pino and Max Simchowitz},
+  year={2026},
+  publisher={GitHub},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/simchowitzlabpublic/nano-world-model}},
+}
