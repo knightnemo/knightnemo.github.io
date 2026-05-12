@@ -1,4 +1,15 @@
 main:
+  - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
+    authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ... <br>Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin
+    conference_short: ArXiv
+    conference: ArXiv preprint, 2026.
+    page: https://mls-bench.com/
+    pdf: https://arxiv.org/pdf/2605.08678
+    arxiv: https://arxiv.org/abs/2605.08678
+    bibtex: ./assets/bib/mls_bench.txt
+    image: ./assets/img/mls_bench.png
+    code: https://github.com/Imbernoulli/MLS-Bench
+    huggingface: https://huggingface.co/papers/2605.08678
   - title: "Vid2World: Crafting Video Diffusion Models to Interactive World Models"
     authors: <strong>Siqiao Huang</strong>*, Jialong Wu*, Qixing Zhou, Shangchen Miao, Mingsheng Long
     conference_short: ICLR
