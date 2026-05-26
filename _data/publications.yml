@@ -1,4 +1,15 @@
 main:
+  - title: "Nano World Models: A Minimalist Implementation of Future Video Prediction"
+    authors: <strong>Siqiao Huang</strong>, Partha Kaushik, Michael Chen, Hengkai Pan, Omar Chehab, Fernando Moreno-Pino, Max Simchowitz
+    conference_short: ArXiv
+    conference: Technical Report. ArXiv preprint, 2026.
+    page: https://simchowitzlabpublic.github.io/nano-world-model/
+    pdf: https://arxiv.org/pdf/2605.23993
+    arxiv: https://arxiv.org/abs/2605.23993
+    bibtex: ./assets/bib/nano_world_model.txt
+    image: ./assets/img/nano_world_model.png
+    code: https://github.com/simchowitzlabpublic/nano-world-model
+    huggingface: https://huggingface.co/collections/knightnemo/nano-world-model
   - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
     authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ... <br>Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin
     conference_short: ArXiv

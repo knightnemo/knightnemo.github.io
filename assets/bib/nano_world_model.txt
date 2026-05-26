@@ -1,8 +1,9 @@
-@misc{nanoworldmodels,
-  title={Nano World Models: A Minimalist, Batteries-Included Repository for Advancing World Model Science},
-  author={Siqiao Huang and Partha Kaushik and Michael Chen and Hengkai Pan and Kaiwen Geng and Omar Chehab and Fernando Moreno-Pino and Max Simchowitz},
+@misc{huang2026nanoworldmodels,
+  title={Nano World Models: A Minimalist Implementation of Future Video Prediction},
+  author={Siqiao Huang and Partha Kaushik and Michael Chen and Hengkai Pan and Omar Chehab and Fernando Moreno-Pino and Max Simchowitz},
   year={2026},
-  publisher={GitHub},
-  journal={GitHub repository},
-  howpublished={\url{https://github.com/simchowitzlabpublic/nano-world-model}},
+  eprint={2605.23993},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2605.23993}
 }
