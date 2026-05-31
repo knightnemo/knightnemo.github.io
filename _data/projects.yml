@@ -11,7 +11,7 @@ main:
     page: https://simchowitzlabpublic.github.io/nano-world-model/
     code: https://github.com/simchowitzlabpublic/nano-world-model
     bibtex: ./assets/bib/nano_world_model.txt
-    others: "<a href='https://arxiv.org/pdf/2605.23993' class='btn btn-sm z-depth-0' role='button' target='_blank' style='font-size:12px;'>PDF</a> <a href='https://huggingface.co/collections/knightnemo/nano-world-model' class='btn btn-sm z-depth-0' role='button' target='_blank' style='font-size:12px;'>Hugging Face</a>"
+    others: "<a href='https://arxiv.org/abs/2605.23993' class='btn btn-sm z-depth-0' role='button' target='_blank' style='font-size:12px;'>arXiv</a> <a href='https://arxiv.org/pdf/2605.23993' class='btn btn-sm z-depth-0' role='button' target='_blank' style='font-size:12px;'>PDF</a> <a href='https://huggingface.co/collections/knightnemo/nano-world-model' class='btn btn-sm z-depth-0' role='button' target='_blank' style='font-size:12px;'>Hugging Face</a>"
   # - title: "A Survey on K-means Clustering Algorithms: Theoretical Analysis and Performance Comparison"
   #   image: ./assets/img/kmeans.jpg
   #   description: "Elucidated the computational complexity and convergence properties of K-means clustering algorithms and its variants."
