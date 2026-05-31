@@ -1,57 +1,31 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications">
+<div class="publication-filter">
+<input class="publication-filter-input" type="radio" id="pub-filter-selected" name="pub-filter" checked>
+<label class="publication-filter-label" for="pub-filter-selected">Selected</label>
+<span class="publication-filter-separator">|</span>
+<input class="publication-filter-input" type="radio" id="pub-filter-all" name="pub-filter">
+<label class="publication-filter-label" for="pub-filter-all">All</label>
+
+<div class="publications publication-list publication-list-selected">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.arxiv }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      {% endif %}
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.huggingface %} 
-      <a href="{{ link.huggingface }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Huggingface</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-<br>
-
+{% if link.selected %}
+{% include publication_entry.html link=link %}
+{% endif %}
 {% endfor %}
-<p style="font-size:12px;">* Equal Contribution, # Corresponding Author</p>
 </ol>
+</div>
+
+<div class="publications publication-list publication-list-all">
+<ol class="bibliography">
+
+{% for link in site.data.publications.main %}
+{% include publication_entry.html link=link highlight_selected=true %}
+{% endfor %}
+</ol>
+</div>
+
+<p style="font-size:12px;">* Equal Contribution, # Corresponding Author</p>
 </div>

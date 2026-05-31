@@ -1,4 +1,11 @@
 main:
+  - title: "EchoArena: Learning World Models for Reliable VLA Policy Evaluation"
+    authors: Yu-Kai Wang, Kevin Zhang, Xiaowei Chi, Tianxing Chen, <strong>Siqiao Huang</strong>, ..., Jian Tang, Shanghang Zhang
+    conference_short: CVPR Workshop
+    conference: CVPR 2026 Workshops.
+    pdf: https://openaccess.thecvf.com/content/CVPR2026W/GigaBrainChallenge/papers/Wang_EchoArena_Learning_World_Models_for_Reliable_VLA_Policy_Evaluation_CVPRW_2026_paper.pdf
+    bibtex: ./assets/bib/echoarena.txt
+    image: ./assets/img/echoarena.png
   - title: "Nano World Models: A Minimalist Implementation of Future Video Prediction"
     authors: <strong>Siqiao Huang</strong>, Partha Kaushik, Michael Chen, Hengkai Pan, Omar Chehab, Fernando Moreno-Pino, Max Simchowitz
     conference_short: ArXiv
@@ -10,6 +17,7 @@ main:
     image: ./assets/img/nano_world_model.png
     code: https://github.com/simchowitzlabpublic/nano-world-model
     huggingface: https://huggingface.co/collections/knightnemo/nano-world-model
+    selected: true
   - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
     authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ... <br>Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin
     conference_short: ArXiv
@@ -32,6 +40,7 @@ main:
     image: ./assets/img/v2w.png
     code: https://github.com/thuml/Vid2World
     huggingface: https://huggingface.co/papers/2505.14357
+    selected: true
   - title: "SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors"
     authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*, Qian Sun, <br> Jiaming Zhang
     conference_short: EMNLP

@@ -1,0 +1,8 @@
+@InProceedings{Wang_2026_CVPR,
+  author = {Wang, Yu-Kai and Zhang, Kevin and Chi, Xiaowei and Chen, Tianxing and Huang, Siqiao and Fu, Chuyao and Guo, Tiecheng and Jia, Peidong and Qin, Yan and Ge, Kuangzhi and Qian, Siyuan and Mi, Weishi and Qian, Zezhong and Li, Jiajun and Wuwu, Qingpo and Ju, Xiaozhu and Tang, Jian and Zhang, Shanghang},
+  title = {EchoArena: Learning World Models for Reliable VLA Policy Evaluation},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month = {June},
+  year = {2026},
+  pages = {4486-4494}
+}
