@@ -582,3 +582,41 @@ footer {
 .news-container li:last-child {
   margin-bottom: 0;
 }
+
+.older-news {
+  margin: -12px 0 20px;
+}
+
+.older-news summary {
+  color: #043361;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.older-news summary:hover {
+  color: #069;
+}
+
+.older-news summary::marker {
+  color: #fba524;
+}
+
+.older-news summary::-webkit-details-marker {
+  color: #fba524;
+}
+
+.older-news[open] summary {
+  margin-bottom: 8px;
+}
+
+.older-news ul {
+  margin: 0 0 20px;
+}
+
+.older-news li {
+  line-height: 1.4;
+  margin-bottom: 0;
+}

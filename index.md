@@ -95,30 +95,22 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 
 ## News
+- **[May. 2026]** <b>[🌎 Nano World Models](https://simchowitzlabpublic.github.io/nano-world-model/)</b> is released! <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsimchowitzlabpublic%2Fnano-world-model&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>
 - **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://knightnemo.github.io/vid2world/)</b> is accepted by **_ICLR 2026_**!
 - **[Nov. 2025]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
 - **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! [![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fknightnemo%2FAwesome-World-Models&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600)](https://github.com/knightnemo/Awesome-World-Models/stargazers)
-- **[Aug. 2025]** 🐋 <b>[SURGE](https://arxiv.org/abs/2502.11167)</b> is accepted by **_EMNLP 2025 Main_**, with a **top 0.3%** meta score!
-- **[May. 2025]** 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00">_<b>Sparking Program</b>_</span>, the most prestigious and selective academic organization for students at Tsinghua University **(top 1%)**.
 
-<!-- - **[May. 2025]** 📈 <b>[TrajWorld](https://arxiv.org/abs/2502.01366)</b> is accepted by **_ICML, 2025_**.
-- **[Jan. 2025]** 📜 My <b>[personal blog website](https://knightnemo.github.io/blog/)</b> is officially online!
-- **[Nov. 2024]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
-- **[Nov. 2024]** 🏆 Glad to receive _**Outstanding Sports Scholarship of Tsinghua**_.-->
-
-<!--<div class="news-container">
+<details class="older-news">
+<summary>Older News</summary>
 <ul>
-<li><strong>[Jan. 2026]</strong> 🎥 First-authored Paper <b><a href="https://arxiv.org/abs/2502.11167">Vid2World</a></b> is accepted by <em><strong>ICLR 2026</strong></em>!</li>
-<li><strong>[Nov. 2025]</strong> 🏆 Honored to receive <em><strong>Comprehensive Excellence Award of Tsinghua</strong></em>.</li>
-<li><strong>[Nov. 2025]</strong> <b><a href="https://github.com/knightnemo/Awesome-World-Models">🌍 Awesome World Models</a></b> is released! <a href="https://github.com/knightnemo/Awesome-World-Models/stargazers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fknightnemo%2FAwesome-World-Models&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600" alt="GitHub stars"></a></li>
-<li><strong>[Aug. 2025]</strong> 🐋 <b><a href="https://arxiv.org/abs/2502.11167">SURGE</a></b> is accepted by <em><strong>EMNLP 2025</strong></em>, with a <strong>top 0.3%</strong> meta score!</li>
+<li><strong>[Aug. 2025]</strong> 🐋 <b><a href="https://arxiv.org/abs/2502.11167">SURGE</a></b> is accepted by <em><strong>EMNLP 2025 Main</strong></em>, with a <strong>top 0.3%</strong> meta score!</li>
 <li><strong>[May. 2025]</strong> 🔥 I became a member of the <img src="/assets/img/spark.png" width="20" height="20" style="vertical-align: text-top; margin-right: 0px"> <span style="color: #FF8C00"><em><b>Sparking Program</b></em></span>, the most prestigious and selective academic organization for students at Tsinghua University <strong>(top 1%)</strong>.</li>
 <li><strong>[May. 2025]</strong> 📈 <b><a href="https://arxiv.org/abs/2502.01366">TrajWorld</a></b> is accepted by <em><strong>ICML, 2025</strong></em>.</li>
 <li><strong>[Jan. 2025]</strong> 📜 My <b><a href="https://knightnemo.github.io/blog/">personal blog website</a></b> is officially online!</li>
 <li><strong>[Nov. 2024]</strong> 🏆 Honored to receive <em><strong>Comprehensive Excellence Award of Tsinghua</strong></em>.</li>
 <li><strong>[Nov. 2024]</strong> 🏆 Glad to receive <em><strong>Outstanding Sports Scholarship of Tsinghua</strong></em>.</li>
 </ul>
-</div>-->
+</details>
 
 ## Education
 
@@ -126,7 +118,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
     [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).\\
     **GPA:** 3.94/4.00, **Rank:** 9/91.\\
     **Selected Courses:** <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0.5em; color: gray;">Natural Language Processing <span style="color: Maroon;">(A+)</span>, Algebra and Computation <span style="color: Maroon;">(A+, Top 1)</span>,<br> Fundamentals of Programming <span style="color: Maroon;">(A+)</span>, Multi-modal Machine Learning <span style="color: orange;">(A)</span>,<br> Deep Learning <span style="color: orange;">(A)</span>, Computer Vision <span style="color: orange;">(A)</span>, Introduction to Computer Systems <span style="color: orange;">(A)</span>.</code>
-    <details><summary>More Selected Courses:</summary> <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Basic Principles of Marxism <span style="color: Maroon;">(A+)</span>, The History of Western Music <span style="color: Maroon;">(A+)</span>,<br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
+    <details><summary>More Selected Courses:</summary> <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Student Research Training <span style="color: Maroon;">(A+)</span>, AI+X Accelerated Computation <span style="color: orange;">(A)</span>,<br>Intelligent Systems and Robotics <span style="color: orange;">(A)</span>, Introduction to Computer Science <span style="color: orange;">(A)</span>, <br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/projects.md %}
