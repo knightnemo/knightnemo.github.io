@@ -4,6 +4,8 @@ main:
     conference_short: ArXiv
     conference: ArXiv preprint, 2026.
     page: https://tsinghua-mars-lab.github.io/OMG/
+    pdf: https://arxiv.org/pdf/2606.10340
+    arxiv: https://arxiv.org/abs/2606.10340
     bibtex:
     image: ./assets/img/omg-composition.gif
     code: https://github.com/Tsinghua-MARS-Lab/OMG
