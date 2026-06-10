@@ -1,8 +1,8 @@
 main:
   - title: "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control"
-    authors: <strong>Siqiao Huang</strong>*, Kun-Ying Lee*, Dongming Qiao*, Guanqi He*, Zhenyu Wang, <br>Yitang Li, Shaoting Zhu, Hang Zhao#
-    conference_short: Tech Report
-    conference: Technical Report, 2026.
+    authors: <strong>Siqiao Huang</strong>*, Kun-Ying Lee*, Dongming Qiao*, Guanqi He*, Zhenyu Wang, Yitang Li, Shaoting Zhu, Hang Zhao#
+    conference_short: ArXiv
+    conference: ArXiv preprint, 2026.
     page: https://tsinghua-mars-lab.github.io/OMG/
     bibtex:
     image: ./assets/img/omg-composition.gif
