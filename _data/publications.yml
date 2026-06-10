@@ -1,4 +1,13 @@
 main:
+  - title: "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control"
+    authors: <strong>Siqiao Huang</strong>*, Kun-Ying Lee*, Dongming Qiao*, Guanqi He*, Zhenyu Wang, <br>Yitang Li, Shaoting Zhu, Hang Zhao#
+    conference_short: Tech Report
+    conference: Technical Report, 2026.
+    page: https://tsinghua-mars-lab.github.io/OMG/
+    bibtex:
+    image: ./assets/img/omg-composition.gif
+    code: https://github.com/Tsinghua-MARS-Lab/OMG
+    selected: true
   - title: "EchoArena: Learning World Models for Reliable VLA Policy Evaluation"
     authors: Yu-Kai Wang, Kevin Zhang, Xiaowei Chi, Tianxing Chen, <strong>Siqiao Huang</strong>, ..., Jian Tang, Shanghang Zhang
     conference_short: CVPR Workshop
