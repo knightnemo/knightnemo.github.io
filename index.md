@@ -95,6 +95,7 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
 
 ## News
+- **[Jun. 2026]** 🥇 Honored to receive **_Sensetime Scholarship_ (top 30 nationwide)**
 - **[May. 2026]** <b>[🌎 Nano World Models](https://simchowitzlabpublic.github.io/nano-world-model/)</b> is released! <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsimchowitzlabpublic%2Fnano-world-model&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>
 - **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://knightnemo.github.io/vid2world/)</b> is accepted by **_ICLR 2026_**!
 - **[Nov. 2025]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
@@ -127,6 +128,7 @@ Recently, I am super interested in understanding **theoretical foundations of ma
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Honors & Awards 
+- **[2026]** Sensetime Scholarship (top 30 undergraduates nationwide)
 - **[2025]** Comprehensive Excellence Award of Tsinghua University
 - **[2025]** Spark Scientific and Technological Innovation Fellowship (top 1%, 30/3000+)
 - **[2024]** Outstanding Sports Scholarship of Tsinghua University
