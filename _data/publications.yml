@@ -10,13 +10,13 @@ main:
     image: ./assets/img/omg-composition.gif
     code: https://github.com/Tsinghua-MARS-Lab/OMG
     selected: true
-  - title: "EchoArena: Learning World Models for Reliable VLA Policy Evaluation"
-    authors: Yu-Kai Wang, Kevin Zhang, Xiaowei Chi, Tianxing Chen, <strong>Siqiao Huang</strong>, ..., Jian Tang, Shanghang Zhang#
-    conference_short: CVPR Workshop
-    conference: CVPR 2026 Workshops.
-    pdf: https://openaccess.thecvf.com/content/CVPR2026W/GigaBrainChallenge/papers/Wang_EchoArena_Learning_World_Models_for_Reliable_VLA_Policy_Evaluation_CVPRW_2026_paper.pdf
-    bibtex: ./assets/bib/echoarena.txt
-    image: ./assets/img/echoarena.png
+  # - title: "EchoArena: Learning World Models for Reliable VLA Policy Evaluation"
+  #   authors: Yu-Kai Wang, Kevin Zhang, Xiaowei Chi, Tianxing Chen, <strong>Siqiao Huang</strong>, ..., Jian Tang, Shanghang Zhang#
+  #   conference_short: CVPR Workshop
+  #   conference: CVPR 2026 Workshops.
+  #   pdf: https://openaccess.thecvf.com/content/CVPR2026W/GigaBrainChallenge/papers/Wang_EchoArena_Learning_World_Models_for_Reliable_VLA_Policy_Evaluation_CVPRW_2026_paper.pdf
+  #   bibtex: ./assets/bib/echoarena.txt
+  #   image: ./assets/img/echoarena.png
   - title: "Nano World Models: A Minimalist Implementation of Future Video Prediction"
     authors: <strong>Siqiao Huang</strong>, Partha Kaushik, Michael Chen, Hengkai Pan, Kaiwen Geng, Omar Chehab, Fernando Moreno-Pino, Max Simchowitz#
     conference_short: ArXiv
@@ -32,7 +32,7 @@ main:
   - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
     authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ... <br>Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin#
     conference_short: ArXiv
-    conference: ArXiv preprint, 2026.
+    conference: ArXiv preprint 2026, <span style="color:#e74d3c"><b>AI4Math @ ICML 2026 Spotlight</b></span>.
     page: https://mls-bench.com/
     pdf: https://arxiv.org/pdf/2605.08678
     arxiv: https://arxiv.org/abs/2605.08678
