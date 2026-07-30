@@ -8,7 +8,7 @@ I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Clas
 
 Currently, I am serving as a research intern at [WEIRD Lab, University of Washington](https://weirdlab.cs.washington.edu/), under the supervision of [Prof. Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/). Prior to this, I was extremely fortunate to be advised by [Prof. Max Simchowitz](https://msimchowitz.github.io), where I spent an amazing summer at [CMU MLD](https://www.ml.cmu.edu). I am also deeply honored for the experience of working with [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
-<p style="margin-bottom: 0;">I welcome any collaboration or discussion, whether with seniors or peers. <b><i style="color: #043361!important;">I am currently seeking a PhD position starting in 2027 Fall</i></b>, and am happy to discuss potential research fit and collaboration opportunities.</p>
+<p style="margin-bottom: 0;"><b><i style="color: #043361!important;">I am currently seeking a PhD position starting in 2027 Fall</i></b>, and am happy to discuss potential research fit and collaboration opportunities.</p>
 <details style="margin-top: 0;">
 <summary style="margin-bottom: 0;">Some picture options: <em>( I'll try to keep this up to date)</em> </summary>
 <link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;">
@@ -88,11 +88,11 @@ Currently, I am serving as a research intern at [WEIRD Lab, University of Washin
 ## Research Interests
 My research goal is to develop **fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
 
-- **World Models**: Visual World Models, Object-Centric World Models, Grounding Foundation Models(e.g. Video Diffusion Models, LLMs) to World Models.
+- **World Models**: Visual World Models, Object-Centric World Models, Grounding Foundation Models (e.g. Video Diffusion Models, LLMs) to World Models.
 
-- **Generalist Robot Policies**: VLAs, Humanoid Foundation Models, Video-Centric Generalist Policies.
+- **Generalist Robot Policies**: Video-Centric Generalist Policies, Humanoid Foundation Models, Posttraining & Test-time Adaptation of Robot Policies.
 
-Recently, I am super interested in understanding **theoretical foundations of machine learning and robotics**, especially for generative modeling, sequence prediction, and robot learning.
+Recently, I am been thinking a lot by **adaptation / self-improvement of robot policies**, especially for agile, dexterous and long-horizon manipulation.
 
 ## News
 - **[Jun. 2026]** 🥇 Honored to receive **_Sensetime Scholarship_ (top 30 nationwide)**
