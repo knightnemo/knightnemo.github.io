@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a junior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
+I'm currently a senior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
 
 Currently, I am serving as a research intern at [WEIRD Lab, University of Washington](https://weirdlab.cs.washington.edu/), under the supervision of [Prof. Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/). Prior to this, I was extremely fortunate to be advised by [Prof. Max Simchowitz](https://msimchowitz.github.io), where I spent an amazing summer at [CMU MLD](https://www.ml.cmu.edu). I am also deeply honored for the experience of working with [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
