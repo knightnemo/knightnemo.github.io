@@ -1,4 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 0px;">Publications</h2>
+
+<p style="font-size:12px; color:#828282; margin: 5px 0px -10px;">* equal contribution&emsp;† project lead&emsp;‡ corresponding author</p>
 
 <div class="publication-filter">
 <input class="publication-filter-input" type="radio" id="pub-filter-selected" name="pub-filter" checked>
@@ -27,5 +29,4 @@
 </ol>
 </div>
 
-<p style="font-size:12px;">* Equal Contribution, # Corresponding Author</p>
 </div>

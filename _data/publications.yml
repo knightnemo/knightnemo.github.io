@@ -1,6 +1,16 @@
 main:
+  - title: "HarnessEval-W: Agentifying the Evaluation of Visual Worlds"
+    authors: Weiliang Chen*, Haowen Sun*, Jun Gao*†, ..., <strong>Siqiao Huang</strong>, ..., Jialong Wu†, Jiangran Lyu†, Fangfu Liu†
+    conference_short: ArXiv
+    conference: ArXiv preprint, 2026.
+    page: https://mirros-lab.github.io/HarnessEval-W
+    pdf: https://arxiv.org/pdf/2608.16859
+    arxiv: https://arxiv.org/abs/2608.16859
+    bibtex:
+    image: ./assets/img/harnesseval_w.png
+    code: https://github.com/MirroS-Lab/HarnessEval-W
   - title: "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control"
-    authors: <strong>Siqiao Huang</strong>*, Kun-Ying Lee*, Dongming Qiao*, Guanqi He*, Zhenyu Wang, Yitang Li, Shaoting Zhu, Hang Zhao#
+    authors: <strong>Siqiao Huang</strong>*, Kun-Ying Lee*, Dongming Qiao*, Guanqi He*, Zhenyu Wang, Yitang Li, Shaoting Zhu, Hang Zhao‡
     conference_short: ArXiv
     conference: Arxiv Preprint, 2026. <br><span style="color:#e74d3c"><b>ExWBC @ RSS 2026 Oral, RoboData @ RSS 2026 Spotlight</b></span>.
     page: https://tsinghua-mars-lab.github.io/OMG/
@@ -18,7 +28,7 @@ main:
   #   bibtex: ./assets/bib/echoarena.txt
   #   image: ./assets/img/echoarena.png
   - title: "Nano World Models: A Minimalist Implementation of Future Video Prediction"
-    authors: <strong>Siqiao Huang</strong>, Partha Kaushik, Michael Chen, Hengkai Pan, Kaiwen Geng, Omar Chehab, Fernando Moreno-Pino, Max Simchowitz#
+    authors: <strong>Siqiao Huang</strong>, Partha Kaushik, Michael Chen, Hengkai Pan, Kaiwen Geng, Omar Chehab, Fernando Moreno-Pino, Max Simchowitz‡
     conference_short: ArXiv
     conference: Technical Report. ArXiv preprint, 2026.
     page: https://simchowitzlabpublic.github.io/nano-world-model/
@@ -30,7 +40,7 @@ main:
     huggingface: https://huggingface.co/collections/knightnemo/nano-world-model
     selected: true
   - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
-    authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ... <br>Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin#
+    authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ... <br>Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin‡
     conference_short: ArXiv
     conference: ArXiv preprint 2026, <span style="color:#e74d3c"><b>AI4Math @ ICML 2026 Spotlight</b></span>.
     page: https://mls-bench.com/
@@ -41,7 +51,7 @@ main:
     code: https://github.com/Imbernoulli/MLS-Bench
     huggingface: https://huggingface.co/papers/2605.08678
   - title: "Vid2World: Crafting Video Diffusion Models to Interactive World Models"
-    authors: <strong>Siqiao Huang</strong>*, Jialong Wu*, Qixing Zhou, Shangchen Miao, Mingsheng Long#
+    authors: <strong>Siqiao Huang</strong>*, Jialong Wu*, Qixing Zhou, Shangchen Miao, Mingsheng Long‡
     conference_short: ICLR
     conference: ICLR 2026.
     page: https://knightnemo.github.io/vid2world/
@@ -65,7 +75,7 @@ main:
     # notes: Oral Presentation
 
   - title: Trajectory World Models for Heterogeneous Environments
-    authors: Shaofeng Yin*, Jialong Wu*, <strong>Siqiao Huang</strong>, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long#
+    authors: Shaofeng Yin*, Jialong Wu*, <strong>Siqiao Huang</strong>, Xingjian Su, Xu He, Jianye Hao, Mingsheng Long‡
     conference_short: ICML
     conference: ICML 2025.
     pdf: https://arxiv.org/pdf/2502.01366
@@ -74,26 +84,3 @@ main:
     code: https://github.com/thuml/TrajWorld
     image: ./assets/img/trajworld.png
     # notes: Oral Presentation
-    
-  
-
-  #- title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
