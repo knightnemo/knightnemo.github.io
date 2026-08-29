@@ -92,7 +92,7 @@ My research goal is to develop **fundamental models with intrinsic understanding
 
 - **Generalist Robot Policies**: Video-Centric Generalist Policies, Humanoid Foundation Models, Posttraining & Test-time Adaptation of Robot Policies.
 
-Recently, I am been thinking a lot by **adaptation / self-improvement of robot policies**, especially for agile, dexterous and long-horizon manipulation.
+Recently, I am been thinking a lot about **adaptation / self-improvement of robot policies**, especially for agile, dexterous and long-horizon manipulation.
 
 ## News
 - **[Jun. 2026]** 🥇 Honored to receive **_Sensetime Scholarship_ (top 30 nationwide)**
@@ -140,8 +140,8 @@ Recently, I am been thinking a lot by **adaptation / self-improvement of robot p
 - **Introduction to Artificial Intelligence, Spring 2025.**<em> Instructor: Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).</em>
 
 ### Reviewer
-- **Conferences:** NeurIPS 2026, CoRL 2026.
-- **Workshops:** [ICLR 2025 @ World Models](https://sites.google.com/view/worldmodel-iclr2025/), [NeurIPS 2025 @ EWM](https://embodied-world-models.github.io), [ICLR 2026 @ World Models](https://sites.google.com/view/iclr-2026-workshop-world-model/home), [RSS 2026 @ Diff4RL](https://rss2026-diffusion-robot-learning.github.io/), [RSS 2026 @ WCBM](https://wcbm-workshop.github.io/).
+- **Conferences:** ICLR 2027, NeurIPS 2026, CoRL 2026.
+<!--- - **Workshops:** [ICLR 2025 @ World Models](https://sites.google.com/view/worldmodel-iclr2025/), [NeurIPS 2025 @ EWM](https://embodied-world-models.github.io), [ICLR 2026 @ World Models](https://sites.google.com/view/iclr-2026-workshop-world-model/home), [RSS 2026 @ Diff4RL](https://rss2026-diffusion-robot-learning.github.io/), [RSS 2026 @ WCBM](https://wcbm-workshop.github.io/). --->
 
 ## Language
 - **TOEFL**: Total Score **117/120** (On First Trial, Speaking 30/30).
