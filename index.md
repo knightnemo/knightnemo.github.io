@@ -129,6 +129,7 @@ Recently, I am been thinking a lot about **adaptation / self-improvement of robo
 
 ## Honors & Awards 
 - **[2026]** Sensetime Scholarship (top 30 undergraduates nationwide)
+- **[2026]** Yao Award Bronze Medal 🥉 (awarded to top 5% Yao Class students)
 - **[2025]** Comprehensive Excellence Award of Tsinghua University
 - **[2025]** Spark Scientific and Technological Innovation Fellowship (top 1%, 30/3000+)
 - **[2024]** Outstanding Sports Scholarship of Tsinghua University
