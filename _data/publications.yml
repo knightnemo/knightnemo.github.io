@@ -1,4 +1,18 @@
 main:
+  - title: "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining"
+    authors: Yuran Wang*†, <strong>Siqiao Huang</strong>*†, Mingleyang Li*, Chenhao Zhang*, Jiaqi Liang*, ..., Xiaowei Chi, Guanqi He, Shanghang Zhang, Hao Dong, Lin Shao‡, Hang Zhao‡
+    conference_short: ArXiv
+    conference: ArXiv preprint, 2026.
+    page: https://openwam-official.github.io/
+    pdf:
+    pdf_pending: true
+    arxiv:
+    arxiv_pending: true
+    bibtex:
+    image: ./assets/img/openwam.jpg
+    code: https://github.com/OpenWAM-Official/OpenWAM
+    huggingface: https://huggingface.co/OpenWAM
+    selected: true
   - title: "HarnessEval-W: Agentifying the Evaluation of Visual Worlds"
     authors: Weiliang Chen*, Haowen Sun*, Jun Gao*†, ..., <strong>Siqiao Huang</strong>, ..., Jialong Wu†, Jiangran Lyu†, Fangfu Liu†
     conference_short: ArXiv
