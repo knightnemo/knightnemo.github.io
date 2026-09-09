@@ -4,11 +4,9 @@ main:
     conference_short: ArXiv
     conference: ArXiv preprint, 2026.
     page: https://openwam-official.github.io/
-    pdf:
-    pdf_pending: true
-    arxiv:
-    arxiv_pending: true
-    bibtex:
+    pdf: https://arxiv.org/pdf/2609.07398
+    arxiv: https://arxiv.org/abs/2609.07398
+    bibtex: ./assets/bib/openwam.txt
     image: ./assets/img/openwam.jpg
     code: https://github.com/OpenWAM-Official/OpenWAM
     huggingface: https://huggingface.co/OpenWAM

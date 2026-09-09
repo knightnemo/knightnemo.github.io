@@ -95,6 +95,7 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am been thinking a lot about **adaptation / self-improvement of robot policies**, especially for agile, dexterous and long-horizon manipulation.
 
 ## News
+- **[Sep. 2026]** <b>[🤖 OpenWAM](https://openwam-official.github.io/)</b> is released! <a href='https://github.com/OpenWAM-Official/OpenWAM'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenWAM-Official%2FOpenWAM&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>
 - **[Jun. 2026]** 🥇 Honored to receive **_Sensetime Scholarship_ (top 30 nationwide)**
 - **[May. 2026]** <b>[🌎 Nano World Models](https://simchowitzlabpublic.github.io/nano-world-model/)</b> is released! <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsimchowitzlabpublic%2Fnano-world-model&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>
 - **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://knightnemo.github.io/vid2world/)</b> is accepted by **_ICLR 2026_**!
