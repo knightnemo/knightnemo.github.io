@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I'm currently a senior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
+I'm currently a senior undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [<img class="inline-logo" src="/assets/img/tsinghua.png" alt="">Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. 
 
-Currently, I am serving as a research intern at [WEIRD Lab, University of Washington](https://weirdlab.cs.washington.edu/), under the supervision of [Prof. Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/). Prior to this, I was extremely fortunate to be advised by [Prof. Max Simchowitz](https://msimchowitz.github.io), where I spent an amazing summer at [CMU MLD](https://www.ml.cmu.edu). I am also deeply honored for the experience of working with [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
+Currently, I am serving as a research intern at [<img class="inline-logo" src="/assets/img/uw.svg" alt="">WEIRD Lab, University of Washington](https://weirdlab.cs.washington.edu/), under the supervision of [Prof. Abhishek Gupta](https://homes.cs.washington.edu/~abhgupta/). Prior to this, I was extremely fortunate to be advised by [Prof. Max Simchowitz](https://msimchowitz.github.io), where I spent an amazing summer at [<img class="inline-logo" src="/assets/img/cmu.png" alt="">CMU MLD](https://www.ml.cmu.edu). I am also deeply honored for the experience of working with [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 <p style="margin-bottom: 0;"><b><i style="color: #043361!important;">I am currently seeking a PhD position starting in 2027 Fall</i></b>, and am happy to discuss potential research fit and collaboration opportunities.</p>
 <details style="margin-top: 0;">
 <summary style="margin-bottom: 0;">Some picture options: <em>( I'll try to keep this up to date)</em> </summary>
 <link rel="stylesheet" href="./assets/css/simple-slider.css" style="margin-top: 0;">
 <div class="simple-gallery" style="margin-top: 0;">
-  <text style="text-align: left; margin-top: 0;">Inspired by <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>'s homepage. Photos are taken within the past year.</text>
+  <text style="text-align: left; margin-top: 0;">📷 Photos are taken within the past year.</text>
   <div style="height: 0.5em;"></div>
   <div class="gallery-container">
     <div class="gallery-item active">
@@ -95,12 +95,12 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am been thinking a lot about **adaptation / self-improvement of robot policies**, especially for agile, dexterous and long-horizon manipulation.
 
 ## News
-- **[Sep. 2026]** <b>[🤖 OpenWAM](https://openwam-official.github.io/)</b> is released! <a href='https://github.com/OpenWAM-Official/OpenWAM'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenWAM-Official%2FOpenWAM&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>
+- **[Sep. 2026]** <b>[🤖 OpenWAM](https://openwam-official.github.io/)</b> is released! <a href='https://github.com/OpenWAM-Official/OpenWAM'> <img class='inline-badge' src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenWAM-Official%2FOpenWAM&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars'/></a>
 - **[Jun. 2026]** 🥇 Honored to receive **_Sensetime Scholarship_ (top 30 nationwide)**
-- **[May. 2026]** <b>[🌎 Nano World Models](https://simchowitzlabpublic.github.io/nano-world-model/)</b> is released! <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsimchowitzlabpublic%2Fnano-world-model&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars' style='vertical-align: -2px; margin-right: 5px;'/></a>
+- **[May. 2026]** <b>[🌎 Nano World Models](https://simchowitzlabpublic.github.io/nano-world-model/)</b> is released! <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img class='inline-badge' src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsimchowitzlabpublic%2Fnano-world-model&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars'/></a>
 - **[Jan. 2026]** 🎥 First-authored Paper <b>[Vid2World](https://knightnemo.github.io/vid2world/)</b> is accepted by **_ICLR 2026_**!
 - **[Nov. 2025]** 🏆 Honored to receive _**Comprehensive Excellence Award of Tsinghua**_.
-- **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! [![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fknightnemo%2FAwesome-World-Models&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600)](https://github.com/knightnemo/Awesome-World-Models/stargazers)
+- **[Nov. 2025]** <b>[🌍 Awesome World Models](https://github.com/knightnemo/Awesome-World-Models)</b> is released! <a href='https://github.com/knightnemo/Awesome-World-Models/stargazers'><img class='inline-badge' src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fknightnemo%2FAwesome-World-Models&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars'/></a>
 
 <details class="older-news">
 <summary>Older News</summary>
@@ -119,8 +119,8 @@ Recently, I am been thinking a lot about **adaptation / self-improvement of robo
 - **B.S. in Computer Science**, Tsinghua University, 2023-2027 (_expected_).\\
     [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).\\
     **GPA:** 3.94/4.00, **Rank:** 9/91.\\
-    **Selected Courses:** <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0.5em; color: gray;">Natural Language Processing <span style="color: Maroon;">(A+)</span>, Algebra and Computation <span style="color: Maroon;">(A+, Top 1)</span>,<br> Fundamentals of Programming <span style="color: Maroon;">(A+)</span>, Multi-modal Machine Learning <span style="color: orange;">(A)</span>,<br> Deep Learning <span style="color: orange;">(A)</span>, Computer Vision <span style="color: orange;">(A)</span>, Introduction to Computer Systems <span style="color: orange;">(A)</span>.</code>
-    <details><summary>More Selected Courses:</summary> <code style="font-size: 0.75em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Student Research Training <span style="color: Maroon;">(A+)</span>, AI+X Accelerated Computation <span style="color: orange;">(A)</span>,<br>Intelligent Systems and Robotics <span style="color: orange;">(A)</span>, Introduction to Computer Science <span style="color: orange;">(A)</span>, <br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
+    **Selected Courses:** <code style="font-size: 0.85em; display: block; margin-left: 1.5em; margin-top: 0.5em; color: gray;">Natural Language Processing <span style="color: Maroon;">(A+)</span>, Algebra and Computation <span style="color: Maroon;">(A+, Top 1)</span>,<br> Fundamentals of Programming <span style="color: Maroon;">(A+)</span>, Multi-modal Machine Learning <span style="color: orange;">(A)</span>,<br> Deep Learning <span style="color: orange;">(A)</span>, Computer Vision <span style="color: orange;">(A)</span>, Introduction to Computer Systems <span style="color: orange;">(A)</span>.</code>
+    <details><summary>More Selected Courses:</summary> <code style="font-size: 0.85em; display: block; margin-left: 1.5em; margin-top: 0em; color: gray;">Student Research Training <span style="color: Maroon;">(A+)</span>, AI+X Accelerated Computation <span style="color: orange;">(A)</span>,<br>Intelligent Systems and Robotics <span style="color: orange;">(A)</span>, Introduction to Computer Science <span style="color: orange;">(A)</span>, <br>Discrete Mathematics II <span style="color: orange;">(A)</span>, Fundamentals of Computer Science <span style="color: orange;">(A)</span>, <br>Advanced Topics in Linear Algebra <span style="color: orange;">(A)</span>, Calculus-A II <span style="color: orange;">(A)</span>, Physics I <span style="color: orange;">(A)</span>.</code></details>
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/projects.md %}
@@ -129,12 +129,12 @@ Recently, I am been thinking a lot about **adaptation / self-improvement of robo
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Honors & Awards 
-- **[2026]** Sensetime Scholarship (top 30 undergraduates nationwide)
-- **[2026]** Yao Award Bronze Medal 🥉 (awarded to top 5% Yao Class students)
-- **[2025]** Comprehensive Excellence Award of Tsinghua University
-- **[2025]** Spark Scientific and Technological Innovation Fellowship (top 1%, 30/3000+)
-- **[2024]** Outstanding Sports Scholarship of Tsinghua University
-- **[2024]** Comprehensive Excellence Award of Tsinghua University
+- **[2026]** **Sensetime Scholarship** (top 30 undergraduates nationwide)
+- **[2026]** **Yao Award Bronze Medal** 🥉 (awarded to top 5% Yao Class students)
+- **[2025]** **Comprehensive Excellence Award** of Tsinghua University
+- **[2025]** **Spark Scientific and Technological Innovation Fellowship** (top 1%, 30/3000+)
+- **[2024]** **Outstanding Sports Scholarship** of Tsinghua University
+- **[2024]** **Comprehensive Excellence Award** of Tsinghua University
 
 ## Professional Services
 ### Teaching Assistant

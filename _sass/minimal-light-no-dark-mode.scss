@@ -1,6 +1,8 @@
 .pub-row {
   display: flex; 
-  align-items: center;}
+  align-items: center;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;}
 
 .social-icons a{
   display:inline-block;
@@ -189,7 +191,9 @@ papertitle {
 h3, h4, h5, h6 {
   font-weight: 600;
   color:#043361;
-  margin:0 0 20px;
+  /* A subheading belongs to the content under it: keep the gap below it
+     small, and let the previous block's 20px margin do the separating. */
+  margin:0 0 8px;
 }
 
 h1 {
@@ -296,6 +300,29 @@ img {
   max-width:100%;
 }
 
+/* Small marks set inline in prose: institution seals before a name, GitHub
+   badges after one. `middle` centres a box on the x-height band; the nudge
+   lifts it onto the cap-height band, which is where it reads as aligned
+   beside capitalised text. The offset is a font metric, not a box metric, so
+   the same value works for a 16px seal and a 20px badge. Heights are in em so
+   they track --base-font-size. */
+.inline-logo,
+.inline-badge {
+  width: auto;
+  vertical-align: middle;
+  position: relative;
+  top: -0.11em;
+}
+
+.inline-logo {
+  height: 1.4em;
+  margin-right: 3px;
+}
+
+.inline-badge {
+  height: 1.4em;
+}
+
 header {
   width:232px;
   float:left;
@@ -352,7 +379,7 @@ header ul a:active {
 
 strong {
   color:#222;
-  font-weight:550;
+  font-weight:700;
 }
 
 
@@ -590,7 +617,7 @@ footer {
 .older-news summary {
   color: #043361;
   cursor: pointer;
-  font-size: 0.95rem;
+  font-size: 0.95em;
   font-weight: 600;
   margin-bottom: 0;
   padding: 0;

@@ -45,7 +45,6 @@
   </div>
 </div>
 </li>
-<br>
 
 {% endfor %}
 
@@ -96,7 +95,6 @@
   </div>
 </div>
 </li>
-<br>
 
 {% endfor %}
 

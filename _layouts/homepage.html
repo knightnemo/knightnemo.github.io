@@ -104,7 +104,11 @@
       {{ content }}
 
       <br>
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=rPkqIl4-_yiyrcog3ADTEMusm4X-O6tOrsQDCABujew&co=4099ff'></script>
+      <!-- Visitor map. ClustrMaps rebranded to MapMyVisitors and let
+           clustrmaps.com lapse, which is why the old cdn.clustrmaps.com src
+           broke. Same widget, same d= id, new host - swap map.js for globe.js
+           to get the rotating 3D globe instead. -->
+      <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=tt&d=rPkqIl4-_yiyrcog3ADTEMusm4X-O6tOrsQDCABujew&co=4099ff'></script>
       <br>
       {% if site.enable_footnote %}
       <p><small>

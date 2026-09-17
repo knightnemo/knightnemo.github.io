@@ -2,12 +2,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,500;0,525;0,550;0,600;0,700;1,400;1,500;1,525;1,550;1,600;1,700&display=swap');
 
+:root {
+  /* One knob for the whole page. 16px at weight 500 read heavy and made the
+     page very tall once the publication list grew; 14px/400 is the size the
+     theme is designed around. Everything else sizes off this. */
+  --base-font-size: 14px;
+  --base-line-height: 1.5;
+  --base-font-weight: 400;
+}
+
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 "Lato",Crimson Pro, serif; 
+  font: var(--base-font-weight) var(--base-font-size)/var(--base-line-height) "Lato", Crimson Pro, serif;
   color:#595959;
-  font-weight:500;
   margin:0
 }
 

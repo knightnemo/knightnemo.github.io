@@ -52,7 +52,7 @@ main:
     huggingface: https://huggingface.co/collections/knightnemo/nano-world-model
     selected: true
   - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
-    authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ... <br>Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin‡
+    authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ..., Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin‡
     conference_short: ArXiv
     conference: ArXiv preprint 2026, <span style="color:#e74d3c"><b>AI4Math @ ICML 2026 Spotlight</b></span>.
     page: https://mls-bench.com/
@@ -75,7 +75,7 @@ main:
     huggingface: https://huggingface.co/papers/2505.14357
     selected: true
   - title: "SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors"
-    authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*, Qian Sun, <br> Jiaming Zhang
+    authors: Bohan Lyu*, <strong>Siqiao Huang</strong>*, Zichen Liang*, Qian Sun, Jiaming Zhang
     conference_short: EMNLP
     conference: EMNLP 2025 Main, <span style="color:#e74d3c"><b>Top 0.3% Meta Score</b></span>.
     pdf: https://arxiv.org/pdf/2502.11167
