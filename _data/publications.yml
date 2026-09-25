@@ -42,7 +42,7 @@ main:
   - title: "Nano World Models: A Minimalist Implementation of Future Video Prediction"
     authors: <strong>Siqiao Huang</strong>, Partha Kaushik, Michael Chen, Hengkai Pan, Kaiwen Geng, Omar Chehab, Fernando Moreno-Pino, Max Simchowitz‡
     conference_short: ArXiv
-    conference: Technical Report. ArXiv preprint, 2026.
+    conference: Technical Report, 2026.
     page: https://simchowitzlabpublic.github.io/nano-world-model/
     pdf: https://arxiv.org/pdf/2605.23993
     arxiv: https://arxiv.org/abs/2605.23993
@@ -53,8 +53,8 @@ main:
     selected: true
   - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
     authors: Bohan Lyu*, Yucheng Yang*, <strong>Siqiao Huang</strong>*, Jiaru Zhang*, ..., Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin‡
-    conference_short: ArXiv
-    conference: ArXiv preprint 2026, <span style="color:#e74d3c"><b>AI4Math @ ICML 2026 Spotlight</b></span>.
+    conference_short: NeurIPS
+    conference: NeurIPS 2026 Evaluations &amp; Datasets Track <span style="color:#e74d3c"><b>(Oral)</b></span>.
     page: https://mls-bench.com/
     pdf: https://arxiv.org/pdf/2605.08678
     arxiv: https://arxiv.org/abs/2605.08678
@@ -62,6 +62,7 @@ main:
     image: ./assets/img/mls_bench.png
     code: https://github.com/Imbernoulli/MLS-Bench
     huggingface: https://huggingface.co/papers/2605.08678
+    selected: true
   - title: "Vid2World: Crafting Video Diffusion Models to Interactive World Models"
     authors: <strong>Siqiao Huang</strong>*, Jialong Wu*, Qixing Zhou, Shangchen Miao, Mingsheng Long‡
     conference_short: ICLR
