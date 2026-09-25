@@ -95,6 +95,7 @@ My research goal is to develop **fundamental models with intrinsic understanding
 Recently, I am been thinking a lot about **adaptation / self-improvement of robot policies**, especially for agile, dexterous and long-horizon manipulation.
 
 ## News
+- **[Sep. 2026]** 📊 <b>[MLS-Bench](https://mls-bench.com/)</b>, our benchmark on <b>whether AI systems can build better AI</b>, is accepted to **_NeurIPS 2026 Evaluations & Datasets Track_** as an <b style="color:#e74d3c">Oral</b> paper <b style="color:#e74d3c">(15/3,757)</b>!
 - **[Sep. 2026]** <b>[🤖 OpenWAM](https://openwam-official.github.io/)</b> is released! <a href='https://github.com/OpenWAM-Official/OpenWAM'> <img class='inline-badge' src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenWAM-Official%2FOpenWAM&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars'/></a>
 - **[Jun. 2026]** 🥇 Honored to receive **_Sensetime Scholarship_ (top 30 nationwide)**
 - **[May. 2026]** <b>[🌎 Nano World Models](https://simchowitzlabpublic.github.io/nano-world-model/)</b> is released! <a href='https://github.com/simchowitzlabpublic/nano-world-model'> <img class='inline-badge' src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsimchowitzlabpublic%2Fnano-world-model&query=%24.stargazers_count&label=stars&logo=github&style=social&cacheSeconds=3600' alt='GitHub stars'/></a>
