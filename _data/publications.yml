@@ -1,4 +1,15 @@
 main:
+  - title: "WB-WAM: Heterogeneous Body–Hand Pre-training for Humanoid Loco-Manipulation"
+    authors: Chuan Qin*, Shaoting Zhu*, Siyuan Luo, <strong>Siqiao Huang</strong>, Hongyu Zhao, Hang Zhao‡
+    conference_short: ArXiv
+    conference: ArXiv preprint, 2026.
+    page: https://wb-wam.github.io/
+    pdf: https://arxiv.org/pdf/2609.34199
+    arxiv: https://arxiv.org/abs/2609.34199
+    bibtex: ./assets/bib/wb_wam.txt
+    image: ./assets/img/wb_wam.png
+    huggingface: https://huggingface.co/papers/2609.34199
+    selected: false
   - title: "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining"
     authors: Yuran Wang*†, <strong>Siqiao Huang</strong>*†, Mingleyang Li*, Chenhao Zhang*, Jiaqi Liang*, ..., Xiaowei Chi, Guanqi He, Shanghang Zhang, Hao Dong, Lin Shao‡, Hang Zhao‡
     conference_short: ArXiv

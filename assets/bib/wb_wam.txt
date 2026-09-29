@@ -1,0 +1,9 @@
+@misc{qin2026wbwamheterogeneousbodyhandpretraining,
+  title={WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation},
+  author={Chuan Qin and Shaoting Zhu and Siyuan Luo and Siqiao Huang and Hongyu Zhao and Hang Zhao},
+  year={2026},
+  eprint={2609.34199},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2609.34199},
+}
