@@ -1,4 +1,16 @@
 main:
+  - title: "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives"
+    authors: Qize Yu*†, Lianrui Fan*, Boyu Chen*, Jiaqi Liang*, Xini Ding*, ..., <strong>Siqiao Huang</strong>, ..., Ping Luo‡, Shiyu Huang‡
+    conference_short: ArXiv
+    conference: ArXiv preprint, 2026.
+    page: https://groundingpi.github.io/
+    pdf: https://arxiv.org/pdf/2609.39601
+    arxiv: https://arxiv.org/abs/2609.39601
+    bibtex: ./assets/bib/groundingpi.txt
+    image: ./assets/img/groundingpi.png
+    code: https://github.com/groundingpi/GroundingPI
+    huggingface: https://huggingface.co/GroundingPI/GroundingPI
+    selected: false
   - title: "WB-WAM: Heterogeneous Body–Hand Pre-training for Humanoid Loco-Manipulation"
     authors: Chuan Qin*, Shaoting Zhu*, Siyuan Luo, <strong>Siqiao Huang</strong>, Hongyu Zhao, Hang Zhao‡
     conference_short: ArXiv
