@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV | Siqiao Huang</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f5f6f8; color: #24374a; font-family: system-ui, sans-serif; }
+    header { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 16px 24px; background: white; border-bottom: 1px solid #dde2e8; }
+    h1 { margin: 0; font-size: 18px; font-weight: 600; }
+    nav { display: flex; gap: 16px; }
+    a { color: #24638b; font-size: 14px; }
+    object { display: block; width: 100%; height: calc(100vh - 61px); height: calc(100dvh - 61px); }
+    .fallback { padding: 24px; text-align: center; }
+    @media (max-width: 480px) { header { padding: 16px; } h1 { font-size: 16px; } nav { gap: 12px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Siqiao Huang · CV</h1>
+    <nav aria-label="CV actions">
+      <a href="Siqiao_CV.pdf">Open PDF</a>
+      <a href="Siqiao_CV.pdf" download>Download</a>
+    </nav>
+  </header>
+  <main>
+    <object data="Siqiao_CV.pdf" type="application/pdf" aria-label="Siqiao Huang's CV">
+      <p class="fallback">View or download <a href="Siqiao_CV.pdf">Siqiao Huang’s CV (PDF)</a>.</p>
+    </object>
+  </main>
+</body>
+</html>
