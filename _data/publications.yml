@@ -12,7 +12,7 @@ main:
     huggingface: https://huggingface.co/GroundingPI/GroundingPI
     selected: false
   - title: "WB-WAM: Heterogeneous Body–Hand Pre-training for Humanoid Loco-Manipulation"
-    authors: Chuan Qin*, Shaoting Zhu*, Siyuan Luo, <strong>Siqiao Huang</strong>, Hongyu Zhao, Hang Zhao‡
+    authors: Chuan Qin*, Shaoting Zhu*, Siyuan Luo, <strong>Siqiao Huang</strong>, Hongyu Zhao, Shanaka Baduge, Hang Zhao‡
     conference_short: ArXiv
     conference: ArXiv preprint, 2026.
     page: https://wb-wam.github.io/

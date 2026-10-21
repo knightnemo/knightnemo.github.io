@@ -86,13 +86,16 @@ Currently, I am serving as a research intern at [<img class="inline-logo" src="/
 -->
 
 ## Research Interests
-My research goal is to develop **fundamental models with intrinsic understandings of the world** and apply these to obtain **general decision intelligence**. Currently, my research interests include:
+My research aims to develop **foundation models with intrinsic understandings of the physical world** and **apply them to enable general-purpose decision-making**. My research focuses on:
 
-- **World Models**: Visual World Models, Object-Centric World Models, Grounding Foundation Models (e.g. Video Diffusion Models, LLMs) to World Models.
+- **World Models for Decision-Making:** I aim to build the next generation of predictive dynamics models and apply them to decision-making through model-based reinforcement learning, post-training policy models in world models, and test-time planning.<br>
+  <span style="color: #777;">▸ <strong style="color: inherit;"><em>Related past work:</em></strong></span> [Vid2World](https://arxiv.org/abs/2505.14357), [NanoWM](https://arxiv.org/abs/2605.23993), and [TrajWorld](https://arxiv.org/abs/2502.01366).
 
-- **Generalist Robot Policies**: Video-Centric Generalist Policies, Humanoid Foundation Models, Posttraining & Test-time Adaptation of Robot Policies.
+- **Pretraining of Generalist Embodied Policies:** I hope to understand how we can build generalist policies that understand the world through pretraining, with a focus on data-centric and representation-centric approaches that leverage visual and dynamical priors.<br>
+  <span style="color: #777;">▸ <strong style="color: inherit;"><em>Related past work:</em></strong></span> [OpenWAM](https://arxiv.org/abs/2609.07398), [OMG](https://arxiv.org/abs/2606.10340), [GroundingPI](https://arxiv.org/abs/2609.39601), and [WB-WAM](https://arxiv.org/abs/2609.34199).
 
-Recently, I am been thinking a lot about **adaptation / self-improvement of robot policies**, especially for agile, dexterous and long-horizon manipulation.
+- **Adaptation and Self-Improvement of Robot Policies:** I aspire to bake world understanding into policies through physical interaction, including DAgger, real-world RL, and simulation post-training. Besides learning from visual worlds (real, simulated, or learned), I am very intrigued by leveraging language-centric models for self-improvement in the physical world.<br>
+  <span style="color: #777;">▸ <strong style="color: inherit;"><em>Related past work:</em></strong></span> [MLS-Bench](https://arxiv.org/abs/2605.08678), [HarnessEval-W](https://arxiv.org/abs/2608.16859), and [SURGE](https://arxiv.org/abs/2502.11167).
 
 ## News
 - **[Sep. 2026]** 📊 <b>[MLS-Bench](https://mls-bench.com/)</b>, our benchmark on <b>whether AI systems can build better AI</b>, is accepted to **_NeurIPS 2026 Evaluations & Datasets Track_** as an <b style="color:#e74d3c">Oral</b> paper <b style="color:#e74d3c">(15/3,757)</b>!
